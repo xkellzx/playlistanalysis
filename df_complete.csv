@@ -1,0 +1,530 @@
+track_uri,track,artist,artist_popularity,followers,artist_genre,track_popularity,album,playlist,danceability,valence,energy,tempo,loudness,speechiness,instrumentalness,liveness,acousticness,key
+349Wc5mDu52d4Uv8Eg9WZv,Indigo,88rising,70,870947,"['asian american hip hop', 'pop']",63,Head In The Clouds II,r&b,0.819,0.71,0.664,144.988,-5.612,0.0828,1.75E-06,0.263,0.0958,7
+50oEtTUNlce4TuZXQoJzXW,urs,NIKI,76,2221877,"['indonesian r&b', 'pop']",70,wanna take this downtown?,r&b,0.72,0.235,0.415,94.88,-9.527,0.354,1.01E-06,0.0893,0.834,0
+39rYdh4MkbRdoA7jvMUYYN,move!,NIKI,76,2221877,"['indonesian r&b', 'pop']",50,wanna take this downtown?,r&b,0.829,0.801,0.49,126.922,-7.003,0.508,0,0.0861,0.523,6
+1NCUe90ZCiWTnWn3umrwqw,Vintage,NIKI,76,2221877,"['indonesian r&b', 'pop']",63,Zephyr,r&b,0.771,0.438,0.816,104.958,-7.104,0.0581,0.000963,0.339,0.0114,2
+5TTXEcfsYLh6fTarLaevTi,lowkey,NIKI,76,2221877,"['indonesian r&b', 'pop']",79,lowkey,r&b,0.752,0.227,0.494,117.901,-8.18,0.0559,0,0.0869,0.432,0
+4LTeNJlLwIgMTPPyR0KaDP,Forever,rei brown,55,118786,['chill r&b'],54,Forever,r&b,0.635,0.758,0.444,159.962,-11.772,0.039,0.00513,0.105,0.656,7
+7ivYWXqrPLs66YwakDuSim,like i need u,keshi,76,2107412,"['chill r&b', 'pop']",75,THE REAPER,r&b,0.748,0.412,0.465,119.872,-8.163,0.0869,0,0.294,0.399,5
+3IqcBL5yjJK3ri0TGaL3MC,less of you,keshi,76,2107412,"['chill r&b', 'pop']",70,bandaids,r&b,0.563,0.568,0.678,169.963,-5.885,0.0495,1.34E-06,0.117,0.544,7
+2Q3QRjA8MjzqpFaIkFludb,right here,keshi,76,2107412,"['chill r&b', 'pop']",69,bandaids,r&b,0.597,0.319,0.496,160.05,-9.441,0.077,0,0.117,0.0839,5
+2yyluSgySg95O24RBkgrMR,B.Y.S.,keshi,76,2107412,"['chill r&b', 'pop']",66,always,r&b,0.632,0.355,0.653,99.997,-6.646,0.0379,0,0.265,0.508,9
+6D6HVKe7Qu3imn4zzJD0W9,drunk,keshi,76,2107412,"['chill r&b', 'pop']",72,always,r&b,0.691,0.306,0.389,104.952,-8.247,0.0367,0,0.0941,0.765,4
+14gmLQPNYokqB8OKxAp69f,War With Heaven,keshi,76,2107412,"['chill r&b', 'pop']",65,Shang-Chi and The Legend of The Ten Rings: The Album,r&b,0.622,0.572,0.671,84.996,-6.426,0.026,0,0.304,0.014,5
+1Fhb9iJPufNMZSwupsXiRe,beside you,keshi,76,2107412,"['chill r&b', 'pop']",76,beside you,r&b,0.711,0.852,0.747,136,-6.335,0.0523,0,0.0957,0.459,0
+0HeiYo9WwMT8ujirrWzarf,SOMEBODY,keshi,76,2107412,"['chill r&b', 'pop']",1,SOMEBODY,r&b,0.649,0.485,0.461,141.102,-8.401,0.0449,0,0.108,0.44,8
+60bAuEmJQfzeDV1B84H4xY,WESTSIDE,keshi,76,2107412,"['chill r&b', 'pop']",66,GABRIEL,r&b,0.562,0.271,0.47,159.728,-10.722,0.0717,0,0.113,0.455,2
+38umMmZQdeoOG7Zojor4g3,ANGOSTURA,keshi,76,2107412,"['chill r&b', 'pop']",68,GABRIEL,r&b,0.536,0.199,0.659,170.035,-9.732,0.0483,0.004,0.107,0.406,6
+0rKtyWc8bvkriBthvHKY8d,SLOW DANCING IN THE DARK,Joji,86,7768173,['viral pop'],85,BALLADS 1,r&b,0.515,0.284,0.479,88.964,-7.458,0.0261,0.00598,0.191,0.544,3
+6xGruZOHLs39ZbVccQTuPZ,Glimpse of Us,Joji,86,7768173,['viral pop'],90,Glimpse of Us,r&b,0.44,0.268,0.317,169.914,-9.258,0.0531,4.78E-06,0.141,0.891,8
+4MIKclDDgZgzuaATP5yOjW,On the Low,Justin Park,51,72806,['chill r&b'],62,Places Like Home,r&b,0.68,0.398,0.53,87.008,-6.854,0.209,0,0.115,0.203,0
+3wefloF3t1sFZx8YMFhqYB,Shouldn't Be,Luke Chiang,60,205692,"['chill r&b', 'pop']",38,Shouldn't Be,r&b,0.651,0.302,0.291,124.898,-10.009,0.0326,0,0.115,0.738,4
+6U0FIYXCQ3TGrk4tFpLrEA,SUGAR,BROCKHAMPTON,72,2060681,"['boy band', 'hip hop', 'rap']",73,GINGER,r&b,0.453,0.516,0.538,122.973,-8.212,0.0638,0,0.19,0.449,1
+0SRPuTnr5QOKRoIxMvvlgK,Vampire,Dominic Fike,73,1001427,"['alternative pop rock', 'pop']",64,What Could Possibly Go Wrong,r&b,0.787,0.698,0.735,97.957,-4.808,0.0857,4.09E-05,0.113,0.331,0
+5lT5IZWW3JQErXELJpQgJ9,Slow Down,Chase Atlantic,80,4269968,['pop'],79,Paradise EP,r&b,0.477,0.255,0.788,129.967,-4.46,0.0362,1.78E-06,0.294,0.0183,10
+1rWzYSHyZ5BiI4DnDRCwy7,Moonlight,Chase Atlantic,80,4269968,['pop'],72,Paradise EP,r&b,0.439,0.128,0.587,134.785,-5.943,0.0402,0,0.0977,0.00269,11
+4HwDCXsMBC7SUdp2WT4MZP,Into It,Chase Atlantic,80,4269968,['pop'],80,Chase Atlantic,r&b,0.518,0.291,0.572,130.053,-6.706,0.0416,2.41E-05,0.129,0.0503,10
+3M0lSi5WW79CXQamgSBIjx,Swim,Chase Atlantic,80,4269968,['pop'],84,Chase Atlantic,r&b,0.666,0.0771,0.542,120.134,-6.429,0.0392,0,0.0765,0.27,8
+2zVaxB54fNngkbWs5uZnla,OHMAMI,Chase Atlantic,80,4269968,['pop'],69,OHMAMI,r&b,0.625,0.398,0.717,126.004,-5.796,0.121,8.73E-05,0.277,0.0476,10
+2jQiSYrwJehQAcuaaQrXnS,Friends,Chase Atlantic,80,4269968,['pop'],83,Nostalgia,r&b,0.422,0.0911,0.609,107.34,-6.361,0.0335,4.76E-06,0.108,0.0114,11
+2KtS31kaWNHs12Q5B43Ixh,Right Here,Chase Atlantic,80,4269968,['pop'],73,Part One,r&b,0.351,0.221,0.587,159.881,-6.413,0.0413,1.87E-05,0.121,0.00516,6
+1uCMyqf4cgJ3LIu01SgXb5,ANGELS,Chase Atlantic,80,4269968,['pop'],56,PHASES,r&b,0.608,0.356,0.711,115.998,-6.019,0.0462,1.55E-05,0.102,0.062,5
+10UlPBWHkekb2UiDnwcyeD,EMPTY,Chase Atlantic,80,4269968,['pop'],60,BEAUTY IN DEATH,r&b,0.693,0.486,0.678,147.99,-5.639,0.0583,0,0.0927,0.165,8
+7zFXmv6vqI4qOt4yGf3jYZ,Get You (feat. Kali Uchis),Daniel Caesar,78,3685623,"['canadian contemporary r&b', 'pop', 'r&b']",81,Freudian,r&b,0.658,0.358,0.294,74.038,-8.533,0.0321,5.20E-05,0.0749,0.422,4
+1RMJOxR6GRPsBHL8qeC2ux,Best Part (feat. H.E.R.),Daniel Caesar,78,3685623,"['canadian contemporary r&b', 'pop', 'r&b']",81,Freudian,r&b,0.524,0.436,0.364,75.24,-10.209,0.0367,0,0.1,0.808,7
+1boXOL0ua7N2iCOUVI1p9F,Japanese Denim,Daniel Caesar,78,3685623,"['canadian contemporary r&b', 'pop', 'r&b']",78,Get You - Single,r&b,0.707,0.345,0.238,124.156,-8.818,0.0379,2.42E-06,0.0842,0.0905,3
+5Ti3fqGTfjUsSdylFNy0Ng,Tomboy,Destiny Rogers,55,135104,[],70,Tomboy,r&b,0.644,0.459,0.645,77.998,-5.437,0.0557,0.00512,0.116,0.423,0
+7ptFEMrSvGhGhAnHN9GUqq,chances,thuy,64,148624,"['chill r&b', 'indie r&b', 'pop', 'r&b']",44,chances,r&b,0.748,0.605,0.472,141.93,-9.15,0.0557,0,0.0525,0.0822,3
+3A7Etq2wGE9cYqLIma97Tt,Aphrodite,RINI,63,607865,"['australian r&b', 'bedroom soul', 'chill r&b', 'pop']",62,After the Sun,r&b,0.717,0.262,0.298,116.039,-9.237,0.0394,0.00293,0.0997,0.555,6
+3LRbalLzZcuvSR6jVnqclh,Meet Me in Amsterdam,RINI,63,607865,"['australian r&b', 'bedroom soul', 'chill r&b', 'pop']",64,After the Sun,r&b,0.62,0.169,0.265,106.022,-10.409,0.0345,1.02E-05,0.114,0.281,9
+2ZwIO3ufWLFYxtEoam9ydu,My Favourite Clothes,RINI,63,607865,"['australian r&b', 'bedroom soul', 'chill r&b', 'pop']",69,My Favourite Clothes,r&b,0.746,0.291,0.339,119.924,-9.041,0.144,1.36E-05,0.0838,0.482,2
+3fEIHWNPl6XS6G5HuQ6jpc,Out of the Blue,RINI,63,607865,"['australian r&b', 'bedroom soul', 'chill r&b', 'pop']",53,Out of the Blue,r&b,0.596,0.227,0.4,79.018,-6.245,0.0284,0.000246,0.29,0.566,11
+3NzUloRHNBsXGtZFmoryu7,Substitute,RINI,63,607865,"['australian r&b', 'bedroom soul', 'chill r&b', 'pop']",37,Rini,r&b,0.833,0.603,0.555,110.024,-6.393,0.044,0.0432,0.118,0.292,3
+2RDskWizsP1lseWF6m2ooe,For the Last Time (feat. Snaggle Owky),RINI,63,607865,"['australian r&b', 'bedroom soul', 'chill r&b', 'pop']",37,For the Last Time (feat. Snaggle Owky),r&b,0.821,0.479,0.387,111.988,-10.859,0.109,0,0.146,0.296,7
+18uwL0vNUanqZH0ro2QcOP,comethru,Jeremy Zucker,74,2091131,"['electropop', 'pop']",79,"summer,",r&b,0.795,0.608,0.178,93.982,-11.991,0.0574,0,0.623,0.607,0
+0rbKrBvZUYY9GN9l057BuY,"always, i'll care",Jeremy Zucker,74,2091131,"['electropop', 'pop']",73,love is not dying,r&b,0.732,0.677,0.221,105.165,-12.623,0.056,2.62E-05,0.11,0.897,6
+4DAcGCqgdTk02tDMx92sfx,Sociopath,Jeremy Zucker,74,2091131,"['electropop', 'pop']",55,CRUSHER,r&b,0.596,0.306,0.467,140.031,-9.991,0.0337,0,0.255,0.482,7
+47isJpIIO8m7BJEhiFhnaf,double take,dhruv,70,403434,"['chill r&b', 'nyc pop', 'pop']",75,double take,r&b,0.456,0.209,0.437,108.678,-11.156,0.0867,0,0.218,0.839,8
+19nu3H3vjeZ505i450lz8R,airplane thoughts,dhruv,70,403434,"['chill r&b', 'nyc pop', 'pop']",48,airplane thoughts,r&b,0.677,0.273,0.454,80.045,-8.555,0.0673,8.55E-05,0.274,0.83,2
+1eOunIE3nhAH5f0jIZ7eMB,vulnerable,dhruv,70,403434,"['chill r&b', 'nyc pop', 'pop']",0,vulnerable,r&b,0.7,0.311,0.491,115.873,-10.706,0.0506,9.43E-05,0.35,0.479,8
+70MgcT507FGdoDBBLdmsqu,moonlight,dhruv,70,403434,"['chill r&b', 'nyc pop', 'pop']",56,moonlight,r&b,0.732,0.565,0.502,92.064,-11.229,0.172,0.00123,0.104,0.634,2
+3vWeZSOhhmOai0Go0zKm5j,"she likes spring, I prefer winter",slchld,58,280757,"['canadian contemporary r&b', 'chill r&b', 'pop']",65,"my insecurities, not yours",r&b,0.39,0.487,0.661,79.56,-6.68,0.0604,0,0.264,0.556,9
+3MYhmpUxwRpYigA04FBmYH,best for you,slchld,58,280757,"['canadian contemporary r&b', 'chill r&b', 'pop']",45,best for you,r&b,0.693,0.454,0.513,95.004,-8.653,0.0637,0,0.114,0.0973,1
+2P2r0647uy5pKUikGZ7q9B,maybe we need a break,slchld,58,280757,"['canadian contemporary r&b', 'chill r&b', 'pop']",60,modern breakups,r&b,0.446,0.348,0.409,80.111,-4.812,0.0547,0,0.0891,0.766,9
+5sZOGj6SfzD7lWpwKhF6oE,say what's on your mind,slchld,58,280757,"['canadian contemporary r&b', 'chill r&b', 'pop']",54,as long as you're okay,r&b,0.676,0.369,0.462,78.959,-4.207,0.037,0.0286,0.222,0.81,6
+0lle0LEefuvobKLYBTBvqY,love me at my worst,slchld,58,280757,"['canadian contemporary r&b', 'chill r&b', 'pop']",46,love me at my worst,r&b,0.551,0.532,0.498,129.923,-5.812,0.0928,0,0.166,0.46,6
+5DyBTivjORrpNhJkJj2Ao5,All Night Long,thuy,64,148624,"['chill r&b', 'indie r&b', 'pop', 'r&b']",62,All Night Long,r&b,0.354,0.0483,0.542,100.032,-9.61,0.12,0.000424,0.09,0.0815,4
+6gSBiIezn6yKhCVhBUOSwB,universe,thuy,64,148624,"['chill r&b', 'indie r&b', 'pop', 'r&b']",53,universe,r&b,0.636,0.0678,0.452,80.004,-8.298,0.0329,1.97E-06,0.104,0.136,11
+2R7ZNlng7Kjdo0Pp4TWNXa,Frío,Omar Apollo,75,701973,"['bedroom pop', 'bedroom soul', 'pop']",24,Frío,r&b,0.689,0.76,0.836,85.795,-3.966,0.408,0.00129,0.108,0.501,0
+09hCjCYUFFzb85ScMxBhYy,Amor Malo,Omar Apollo,75,701973,"['bedroom pop', 'bedroom soul', 'pop']",15,Stereo,r&b,0.663,0.531,0.531,140.657,-8.452,0.0452,0.00412,0.0962,0.642,9
+6KhT7CK6FL0BnI3nVPqv4F,Over 85,Hojean,55,146562,['chill r&b'],58,Over 85,r&b,0.644,0.477,0.522,99.999,-8.197,0.0273,0,0.122,0.0824,0
+09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,65,147837,"['afro r&b', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']",79,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),r&b,0.87,0.319,0.523,110.02,-8.052,0.0602,2.07E-05,0.113,0.433,1
+3QyoC6OvQUmpQwQZ18iaTs,Overdrive,Conan Gray,82,7299580,"['bedroom pop', 'pop']",70,Overdrive,r&b,0.568,0.46,0.788,104.959,-6.28,0.0377,0,0.141,0.0101,5
+0vq7fkHZl2khMonn5G7d9l,Affluenza,Conan Gray,82,7299580,"['bedroom pop', 'pop']",61,Kid Krow,r&b,0.685,0.863,0.67,117.98,-5.663,0.0393,0,0.179,0.116,11
+4JeOesjcWWlprTAvucDSJX,People Watching,Conan Gray,82,7299580,"['bedroom pop', 'pop']",72,People Watching,r&b,0.53,0.538,0.593,125.723,-7.286,0.0545,0,0.314,0.385,5
+6GJv5FTWGHWgl4uPdpc6O2,trust (feat. RINI),thuy,64,148624,"['chill r&b', 'indie r&b', 'pop', 'r&b']",50,trust (feat. RINI),r&b,0.762,0.649,0.556,95.025,-7.144,0.0406,0,0.081,0.13,0
+3WBRfkOozHEsG0hbrBzwlm,Everything Goes On,Porter Robinson,64,1042112,"['complextro', 'edm', 'future bass', 'melodic dubstep', 'pop dance', 'progressive electro house']",72,Everything Goes On,r&b,0.55,0.323,0.648,156.957,-6.542,0.0309,0,0.0999,0.0191,7
+1gdfNi8uXMJNWPvlFRPbUW,dirty dancing,CODY JON,39,10838,[],50,dirty dancing,r&b,0.732,0.517,0.56,148.094,-5.921,0.145,0,0.471,0.0577,0
+25kxJg4ykcvM1wphY0yIwt,Green Tea & Honey,Dane Amar,54,21071,"['asian american hip hop', 'chill r&b']",64,East Daygo Popstar,r&b,0.845,0.799,0.241,94.869,-10.948,0.0395,0,0.0722,0.513,2
+7h5JV2j5wEwMP2hQE12Nk4,Roses,Finn Askew,45,35389,[],59,Roses,r&b,0.713,0.32,0.595,114.972,-5.519,0.0653,0,0.123,0.592,1
+4TF240Qq2I1cr2Ysvfps4d,Broken Record,GSoul,54,201628,"['chill r&b', 'k-pop', 'korean r&b']",54,Hate Everything,r&b,0.703,0.851,0.599,104.048,-7.127,0.101,0,0.428,0.2,6
+3cF6uekOdMpiyBauNJAqFJ,FALLING,Che Ecru,53,162358,"['indie r&b', 'r&b', 'trap soul']",51,PREJECTION,r&b,0.712,0.387,0.169,100.051,-11.818,0.0801,0,0.229,0.672,11
+6T6D9CIrHkALcHPafDFA6L,Vibez,ZAYN,77,21759834,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",65,Nobody Is Listening,r&b,0.643,0.297,0.671,96.924,-7.45,0.0842,0.0178,0.12,0.241,7
+0X2bh8NVQ8svDQIn2AdCbW,Consume (feat. Goon Des Garcons),Chase Atlantic,80,4269968,['pop'],80,Chase Atlantic,r&b,0.556,0.434,0.714,146.113,-5.322,0.158,0,0.261,0.07,9
+245onUPHGD1DYuiacxTuW0,KAZINO,BIBI,72,694933,"['k-pop', 'korean r&b']",68,KAZINO,r&b,0.625,0.263,0.686,133.041,-3.715,0.0414,0,0.11,0.139,6
+08SB2OtZkaliju77WYEKxk,No Love (with SZA),Summer Walker,80,4486912,"['pop', 'r&b', 'rap']",79,Still Over It,r&b,0.707,0.517,0.618,133.876,-5.825,0.19,0,0.293,0.17,1
+5dXWFMwD7I7zXsInONVl0H,I Hate U,SZA,95,9794006,"['pop', 'r&b']",79,I Hate U,r&b,0.535,0.412,0.388,106.703,-9.805,0.155,0,0.11,0.507,7
+5q3LwAHTqo9d3rET2EA9Nq,The Weekend,88rising,70,870947,"['asian american hip hop', 'pop']",71,The Weekend,r&b,0.784,0.817,0.521,101.491,-5.701,0.0322,4.75E-06,0.0995,0.062,1
+0iWFz0Q5Qha9bx325ocFWq,Best Lover,88rising,70,870947,"['asian american hip hop', 'pop']",67,Head In The Clouds Forever,r&b,0.74,0.519,0.663,82.004,-5.393,0.272,0,0.121,0.268,7
+3YJJjQPAbDT7mGpX3WtQ9A,Good Days,SZA,95,9794006,"['pop', 'r&b']",83,Good Days,r&b,0.436,0.412,0.655,121.002,-8.37,0.0583,8.10E-06,0.688,0.499,1
+3GCdLUSnKSMJhs4Tj6CV3s,All The Stars (with SZA),Kendrick Lamar,89,22506959,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",86,Black Panther The Album Music From And Inspired By,r&b,0.698,0.552,0.633,96.924,-4.946,0.0597,0.000194,0.0926,0.0605,8
+2LBqCSwhJGcFQeTHMVGwy3,Die For You,The Weeknd,96,55798489,"['canadian contemporary r&b', 'canadian pop', 'pop']",89,Starboy,r&b,0.586,0.508,0.525,133.629,-7.163,0.0615,0,0.134,0.111,1
+5pXui9rkf5W90DgZobuDiK,The Walls,Chase Atlantic,80,4269968,['pop'],65,Chase Atlantic,r&b,0.357,0.225,0.704,144.172,-6.925,0.0828,1.54E-06,0.124,0.326,0
+5SMCxRA6hB2jEhroaYfw6N,IT'S YOU (feat. keshi),MAX,70,789775,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",76,IT'S YOU (feat. keshi),r&b,0.697,0.451,0.368,90.011,-9.708,0.056,0.00016,0.135,0.835,2
+6sI8Q7TTJeA9exw6hxEqq3,Blueberry Eyes (feat. SUGA of BTS),MAX,70,789775,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",65,Colour Vision,r&b,0.746,0.411,0.611,149.967,-7.034,0.101,0.000922,0.133,0.454,0
+7B3z0ySL9Rr0XvZEAjWZzM,Sofia,Clairo,76,3668902,"['bedroom pop', 'indie pop', 'pop']",81,Immunity,r&b,0.744,0.641,0.619,112.997,-9.805,0.039,0.00372,0.231,0.598,0
+4ZaRg5Sf4TKr0YcFRLh7QJ,Love Affair,UMI,64,780265,"['alternative r&b', 'bedroom soul', 'chill r&b', 'indie r&b', 'pop', 'r&b']",69,Love Language,r&b,0.613,0.183,0.488,172.076,-7.37,0.0964,2.13E-05,0.335,0.129,8
+630Ug0XtmhhFvAKo0PNuEI,Remember Me,UMI,64,780265,"['alternative r&b', 'bedroom soul', 'chill r&b', 'indie r&b', 'pop', 'r&b']",67,Remember Me,r&b,0.84,0.526,0.344,111.994,-8.613,0.0374,3.36E-05,0.35,0.456,5
+5HYSOEDwblGTVSh88TZnet,Midnight Blues,UMI,64,780265,"['alternative r&b', 'bedroom soul', 'chill r&b', 'indie r&b', 'pop', 'r&b']",57,Interlude,r&b,0.763,0.347,0.494,88.011,-6.857,0.0487,0.00173,0.173,0.965,11
+4qkVALwOxCIEZ7I5gkZ3m4,Butterfly,UMI,64,780265,"['alternative r&b', 'bedroom soul', 'chill r&b', 'indie r&b', 'pop', 'r&b']",62,Butterfly,r&b,0.785,0.12,0.27,131.894,-14.457,0.0892,0.00132,0.0953,0.255,5
+6dgUya35uo964z7GZXM07g,Nonsense,Sabrina Carpenter,78,4841301,"['dance pop', 'pop', 'post-teen pop']",84,emails i can't send,r&b,0.74,0.732,0.697,138.992,-4.912,0.034,0,0.224,0.0268,8
+2OVyx2OHlx5SKuJzVLL0nx,Like We Used To,Justin Park,51,72806,['chill r&b'],43,Places Like Home,r&b,0.621,0.548,0.75,95.059,-6.221,0.101,1.91E-05,0.145,0.0446,0
+41P6Tnd8KIHqON0QIydx6a,the perfect pair,beabadoobee,75,1494759,"['bedroom pop', 'bubblegrunge', 'indie pop']",79,Beatopia,r&b,0.634,0.6,0.663,146.053,-6.818,0.0331,0.124,0.102,0.433,11
+5UXJzLFdBn6u9FJTCnoHrH,Memories,Conan Gray,82,7299580,"['bedroom pop', 'pop']",82,Superache,r&b,0.34,0.556,0.684,112.969,-6.306,0.044,0,0.348,0.00979,11
+1fDFHXcykq4iw8Gg7s5hG9,About You,The 1975,81,6169449,"['modern alternative rock', 'modern rock', 'pop', 'rock']",85,Being Funny In A Foreign Language,r&b,0.416,0.461,0.762,95.967,-7.385,0.0279,0.804,0.0559,0.312,2
+34ZAzO78a5DAVNrYIGWcPm,Shirt,SZA,95,9794006,"['pop', 'r&b']",88,Shirt,r&b,0.824,0.552,0.453,119.959,-9.604,0.0968,0.0273,0.0896,0.146,3
+0q75NwOoFiARAVp4EXU4Bs,Love Galore (feat. Travis Scott),SZA,95,9794006,"['pop', 'r&b']",79,Ctrl,r&b,0.795,0.409,0.594,135.002,-6.2,0.0748,0,0.162,0.112,0
+59tskctgqUmjCWAwhzYAFm,Looking at Me,Sabrina Carpenter,78,4841301,"['dance pop', 'pop', 'post-teen pop']",74,Singular Act II,r&b,0.681,0.516,0.798,105.99,-4.367,0.0375,5.11E-06,0.0542,0.00398,2
+3OHfY25tqY28d16oZczHc8,Kill Bill,SZA,95,9794006,"['pop', 'r&b']",96,SOS,r&b,0.644,0.43,0.728,88.993,-5.75,0.0351,0.169,0.161,0.0543,8
+2CSRrnOEELmhpq8iaAi9cd,Blind,SZA,95,9794006,"['pop', 'r&b']",89,SOS,r&b,0.461,0.599,0.279,114.225,-11.776,0.0373,0,0.205,0.911,9
+1eIXYZWEfJO3Na2LCCnIJE,Love Language,SZA,95,9794006,"['pop', 'r&b']",87,SOS,r&b,0.707,0.545,0.261,65.038,-10.139,0.0784,0,0.127,0.853,9
+5Y35SjAfXjjG0sFQ3KOxmm,Nobody Gets Me,SZA,95,9794006,"['pop', 'r&b']",92,SOS,r&b,0.358,0.276,0.284,99.796,-8.285,0.0285,0,0.183,0.805,7
+55S2PQgSMYAhgoTCcGCDfw,Youngblood,5 Seconds of Summer,79,9085579,"['boy band', 'dance pop', 'pop', 'post-teen pop']",69,Youngblood,pop,0.596,0.152,0.854,120.274,-5.114,0.463,0,0.124,0.0169,7
+5SxkdsY1ufZzoq9iXceLw9,no tears left to cry,Ariana Grande,91,86525062,"['dance pop', 'pop']",0,no tears left to cry,pop,0.703,0.366,0.696,121.969,-5.482,0.0529,5.65E-06,0.274,0.0375,0
+0S4RKPbRDA72tvKwVdXQqe,The Way,Ariana Grande,91,86525062,"['dance pop', 'pop']",68,Yours Truly,pop,0.645,0.862,0.878,82.324,-3.208,0.113,0,0.076,0.294,5
+6e40mgJiCid5HRAGrbpGA6,I Want It That Way,Backstreet Boys,77,4929539,"['boy band', 'dance pop']",70,The Hits--Chapter One,pop,0.689,0.484,0.702,99.031,-5.642,0.0261,0,0.159,0.216,6
+4JehYebiI9JE8sR8MisGVb,Halo,Beyoncé,87,33151535,"['dance pop', 'pop', 'r&b']",76,I AM...SASHA FIERCE,pop,0.508,0.472,0.72,79.983,-5.908,0.0628,0,0.0563,0.272,11
+6lV2MSQmRIkycDScNtrBXO,Airplanes (feat. Hayley Williams of Paramore),B.o.B,73,2041003,"['atl hip hop', 'dance pop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop']",76,B.o.B Presents: The Adventures of Bobby Ray,pop,0.66,0.377,0.867,93.033,-4.285,0.116,0,0.0368,0.11,6
+0kN8xEmgMW9mh7UmDYHlJP,Versace on the Floor,Bruno Mars,89,45397506,"['dance pop', 'pop']",77,24K Magic,pop,0.578,0.301,0.574,174.152,-6.209,0.0454,0,0.083,0.196,2
+0KKkJNfGyhkQ5aFogxQAPU,That's What I Like,Bruno Mars,89,45397506,"['dance pop', 'pop']",85,24K Magic,pop,0.853,0.86,0.56,134.066,-4.961,0.0406,0,0.0944,0.013,1
+5XMkENs3GfeRza8MfVAhjK,Finesse,Bruno Mars,89,45397506,"['dance pop', 'pop']",70,24K Magic,pop,0.741,0.939,0.798,104.953,-5.342,0.0718,0,0.0232,0.00781,5
+2tJulUYLDKOg9XrtVkMgcJ,Grenade,Bruno Mars,89,45397506,"['dance pop', 'pop']",79,Doo-Wops & Hooligans,pop,0.704,0.245,0.558,110.444,-7.273,0.0542,0,0.107,0.148,2
+0PG9fbaaHFHfre2gUVo7AN,Please Me,Cardi B,82,20923559,"['dance pop', 'pop', 'rap']",75,Please Me,pop,0.747,0.65,0.57,133.992,-6.711,0.081,0,0.0832,0.0642,1
+3XJpQ65m90QFmogv8MH1pG,Take You Down,Chris Brown,89,18079005,"['dance pop', 'r&b']",0,Exclusive,pop,0.387,0.589,0.631,59.409,-5.79,0.0807,0,0.0666,0.126,11
+0lHAMNU8RGiIObScrsRgmP,Titanium (feat. Sia),David Guetta,90,25265058,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",70,Nothing but the Beat 2.0,pop,0.604,0.301,0.788,126.06,-3.673,0.103,0.153,0.127,0.0678,0
+3Dv1eDb0MEgF93GpLXlucZ,Say So,Doja Cat,88,23853054,"['dance pop', 'pop']",79,Hot Pink,pop,0.787,0.779,0.673,110.962,-4.583,0.159,3.35E-06,0.0904,0.264,11
+0CAfXk7DXMnon4gLudAp7J,Low (feat. T-Pain),Flo Rida,79,8739857,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap']",82,Mail on Sunday,pop,0.918,0.304,0.609,128.008,-5.64,0.0791,0,0.139,0.0928,10
+6ft9PAgNOjmZ2kFVP7LGqb,Can't Take My Eyes off You,Frankie Valli,62,226711,"['adult standards', 'bubblegum pop', 'mellow gold', 'soft rock']",71,The Very Best of Frankie Valli & The 4 Seasons,pop,0.575,0.536,0.764,123.821,-7.448,0.0746,1.07E-05,0.0692,0.566,4
+0qOnSQQF0yzuPWsXrQ9paz,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,70,1420036,"['dance pop', 'pop rap']",83,The Papercut Chronicles II,pop,0.646,0.796,0.795,89.99,-3.293,0.0976,0,0.267,0.0319,9
+7pNC5ZIKtwUK0ReSpM3P9f,Black Widow,Iggy Azalea,69,6221801,"['australian hip hop', 'dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'rap', 'viral rap']",66,The New Classic,pop,0.743,0.519,0.72,163.99,-3.753,0.124,0.000386,0.109,0.192,11
+5vlEg2fT4cFWAqU5QptIpQ,Replay,Iyaz,64,849466,"['dance pop', 'pop rap', 'post-teen pop']",73,Replay,pop,0.706,0.195,0.751,91.031,-6.323,0.0708,0,0.168,0.173,9
+1EzrEOXmMH3G43AXT1y7pA,I'm Yours,Jason Mraz,73,6893355,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",80,We Sing. We Dance. We Steal Things.,pop,0.703,0.712,0.444,150.96,-9.331,0.0417,0,0.0973,0.559,11
+7LP4Es66zdY7CyjepqmvAg,Down,Jay Sean,67,1644356,"['dance pop', 'pop rap', 'post-teen pop', 'urban contemporary']",1,All Or Nothing,pop,0.657,0.683,0.695,65.997,-4.493,0.0321,0,0.0822,0.0108,2
+4y3OI86AEP6PQoDE6olYhO,Sucker,Jonas Brothers,78,6695370,"['boy band', 'dance pop', 'pop', 'post-teen pop']",2,Sucker,pop,0.842,0.952,0.734,137.958,-5.065,0.0588,0,0.106,0.0427,1
+190jyVPHYjAqEaOGmMzdyk,Beauty And A Beat,Justin Bieber,92,68842404,"['canadian pop', 'pop']",75,Believe (Deluxe Edition),pop,0.602,0.526,0.843,128.003,-4.831,0.0593,5.27E-05,0.0682,0.000688,0
+6eDApnV9Jdb1nYahOlbbUh,One Time,Justin Bieber,92,68842404,"['canadian pop', 'pop']",71,My World,pop,0.691,0.762,0.853,145.999,-2.528,0.0372,7.13E-05,0.082,0.0631,1
+69ghzc538EQSVon2Gm3wrr,One Less Lonely Girl,Justin Bieber,92,68842404,"['canadian pop', 'pop']",69,My World,pop,0.58,0.728,0.75,86.938,-4.421,0.194,0,0.274,0.159,4
+6epn3r7S14KUqlReYr77hA,Baby,Justin Bieber,92,68842404,"['canadian pop', 'pop']",82,My World 2.0,pop,0.728,0.535,0.859,65.043,-5.237,0.137,0,0.111,0.0401,5
+3rLIv187BhjyweFe89SgLn,Somebody To Love,Justin Bieber,92,68842404,"['canadian pop', 'pop']",70,My World 2.0,pop,0.714,0.663,0.833,129.964,-5.239,0.0259,0,0.298,0.00249,5
+3xrn9i8zhNZsTtcoWgQEAd,Since U Been Gone,Kelly Clarkson,83,9415982,"['dance pop', 'pop', 'post-teen pop', 'talent show']",73,Breakaway,pop,0.662,0.404,0.741,131,-5.406,0.0334,0.0303,0.114,0.00165,0
+5OMwQFBcte0aWFJFqrr5oj,TiK ToK,Kesha,76,7489857,"['dance pop', 'pop', 'post-teen pop']",0,Animal,pop,0.755,0.735,0.832,120.032,-2.741,0.116,1.27E-06,0.291,0.0746,2
+6fTt0CH2t0mdeB2N9XFG5r,Panini,Lil Nas X,83,12206957,"['lgbtq+ hip hop', 'pop']",63,7 EP,pop,0.703,0.475,0.594,153.848,-6.146,0.0752,0,0.123,0.342,5
+2LNbLA2JSQlv6NRz1xdZRj,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Maroon 5,86,39202819,['pop'],44,Hands All Over (Deluxe),pop,0.722,0.627,0.76,128.018,-4.459,0.0478,0,0.294,0.0118,9
+2iuZJX9X9P0GKaE93xcPjk,Sugar,Maroon 5,86,39202819,['pop'],82,V,pop,0.748,0.884,0.788,120.076,-7.055,0.0334,0,0.0863,0.0591,1
+2DPYlWl50ydYsnnuryL5aX,Cooler Than Me (feat. Big Sean),Mike Posner,70,1319049,"['dance pop', 'edm', 'pop', 'pop rap']",68,Cooler Than Me EP,pop,0.837,0.769,0.515,129.001,-4.065,0.0793,0,0.233,0.103,7
+0iYebKFUSfF72fUu2OW6ZT,Super Bass,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",0,Pink Friday (Deluxe),pop,0.72,0.669,0.861,126.991,-4.339,0.209,5.11E-06,0.601,0.269,11
+0rIAC4PXANcKmitJfoqmVm,Motivation,Normani,70,2241949,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']",70,Motivation,pop,0.599,0.881,0.887,170.918,-3.967,0.0984,1.21E-06,0.3,0.0192,4
+0gRczqVHrEQQDyizJUtgRc,Troublemaker (feat. Flo Rida),Olly Murs,67,3271334,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'talent show', 'uk pop']",0,Right Place Right Time (Deluxe),pop,0.761,0.967,0.856,106.009,-3.65,0.0731,0,0.149,0.02,0
+03oZejWqXLbKhhM4iTgShq,What Makes You Beautiful,One Direction,85,28873568,"['boy band', 'pop', 'post-teen pop', 'talent show']",0,Up All Night,pop,0.726,0.868,0.778,125,-2.483,0.0784,0,0.082,0.00851,4
+3cHyrEgdyYRjgJKSOiOtcS,Timber (feat. Ke$ha),Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",82,Global Warming: Meltdown (Deluxe Version),pop,0.581,0.788,0.963,129.992,-4.087,0.0981,0,0.139,0.0295,11
+49FYlytm3dAAraYgpoJZux,Umbrella,Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",83,Good Girl Gone Bad: Reloaded,pop,0.583,0.575,0.829,174.028,-4.603,0.134,0,0.0426,0.00864,1
+7795WJLVKJoAyVoOtCWqXN,I'm Not The Only One,Sam Smith,89,21262897,"['pop', 'uk pop']",88,In The Lonely Hour,pop,0.677,0.493,0.485,82.001,-5.795,0.0361,2.04E-05,0.0766,0.529,5
+1X1DWw2pcNZ8zSub3uhlNz,Hall of Fame (feat. will.i.am),The Script,74,7651273,"['celtic rock', 'neo mellow', 'pop', 'pop rock']",70,#3,pop,0.421,0.629,0.873,84.786,-4.343,0.0564,0,0.123,0.0654,10
+1YaVmBh7EAeR54FIjuFcb5,Naturally,Selena Gomez & The Scene,69,8254056,"['dance pop', 'pop', 'post-teen pop']",65,Kiss & Tell,pop,0.605,0.875,0.902,132.612,-5.406,0.0511,1.01E-06,0.0534,0.0185,10
+1DqdF42leyFIzqNDv9CjId,Dynamite,Taio Cruz,70,2185286,"['dance pop', 'edm', 'pop', 'pop rap']",66,Rokstarr,pop,0.754,0.818,0.804,119.968,-3.177,0.0853,0,0.0329,0.00332,4
+24YvUQnuPL8gObCfSnAobH,"Hey, Soul Sister",Train,74,4194066,"['dance pop', 'neo mellow', 'pop', 'pop rock']",0,"Save Me, San Francisco",pop,0.677,0.764,0.89,97.012,-4.448,0.0418,0,0.0826,0.182,1
+2M9ULmQwTaTGmAdXaXpfz5,Billionaire (feat. Bruno Mars),Travie McCoy,62,351989,['pop rap'],73,Billionaire (feat. Bruno Mars),pop,0.633,0.659,0.673,86.776,-6.403,0.258,0,0.206,0.297,6
+4EnwhEyuVrC1CgvSur5YL4,Bet On It,Troy,60,58522,"['hollywood', 'post-teen pop']",63,High School Musical 2 (Original Soundtrack),pop,0.812,0.439,0.67,137.038,-6.385,0.0565,0,0.0518,0.0218,5
+5rWIO1uP0GwAoU45RTBJ2F,Gotta Go My Own Way,Zac Efron,68,761606,"['hollywood', 'post-teen pop', 'show tunes']",66,High School Musical 2 (Original Soundtrack),pop,0.555,0.313,0.692,88.995,-4.767,0.0277,3.25E-05,0.232,0.0864,9
+7wqSzGeodspE3V6RBD5W8L,See You Again (feat. Charlie Puth),Wiz Khalifa,83,10851887,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",0,See You Again (feat. Charlie Puth),pop,0.689,0.283,0.481,80.025,-7.503,0.0815,1.03E-06,0.0649,0.369,10
+65fpYBrI8o2cfrwf2US4gq,Rewrite The Stars,Zac Efron,68,761606,"['hollywood', 'post-teen pop', 'show tunes']",73,The Greatest Showman (Original Motion Picture Soundtrack),pop,0.684,0.284,0.619,125.046,-7.005,0.0386,0,0.122,0.0716,10
+09IStsImFySgyp0pIQdqAc,The Middle,Zedd,76,5870976,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'pop rap', 'tropical house']",81,The Middle,pop,0.753,0.437,0.657,107.01,-3.061,0.0449,0,0.112,0.171,7
+7fYbFYt7X4FZvuJJC90EX0,Problem,Ariana Grande,91,86525062,"['dance pop', 'pop']",0,My Everything,pop,0.654,0.61,0.797,102.998,-5.278,0.182,1.04E-05,0.131,0.0216,1
+28AUzRo0nQLESL55WDV0um,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,80,10218870,"['atl hip hop', 'contemporary r&b', 'dance pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",51,Versus,pop,0.663,0.654,0.861,119.964,-3.398,0.109,0,0.082,0.0336,7
+2rPE9A1vEgShuZxxzR2tZH,"thank u, next",Ariana Grande,91,86525062,"['dance pop', 'pop']",23,"thank u, next",pop,0.724,0.435,0.647,106.96,-5.642,0.0658,0,0.102,0.28,1
+1tAutlhI9FwnKn7fVgmd5P,Without You (feat. Usher),David Guetta,90,25265058,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",65,Nothing but the Beat 2.0,pop,0.608,0.402,0.614,127.885,-3.727,0.0285,3.82E-06,0.157,0.227,2
+3PfeAZbfD134dO6OiLDA2Y,Just A Dream,Nelly,75,2309304,"['dance pop', 'hip hop', 'pop rap', 'southern hip hop', 'st louis rap', 'urban contemporary']",42,Just A Dream,pop,0.461,0.115,0.748,180.063,-6.122,0.033,0,0.125,0.0444,1
+6FE2iI43OZnszFLuLtvvmg,Classic,MKTO,66,1011788,"['dance pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",81,MKTO,pop,0.72,0.756,0.791,102.071,-4.689,0.124,0,0.157,0.0384,1
+6aDi4gOE2Cfc6ecynvP81R,Born This Way,Lady Gaga,87,24485441,"['art pop', 'dance pop', 'pop']",49,Born This Way,pop,0.586,0.508,0.827,123.905,-5.102,0.15,0,0.328,0.0037,11
+7Kt59L2ZZGtOnIhvMwzG6f,Diamonds,Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",56,Unapologetic (Deluxe),pop,0.564,0.393,0.71,91.972,-4.92,0.0461,0,0.109,0.00125,11
+2VOomzT6VavJOGBeySqaMc,Disturbia,Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",79,Good Girl Gone Bad: Reloaded,pop,0.707,0.722,0.813,124.921,-4.515,0.0571,0,0.168,0.0863,11
+5mvKuE9Lf9ARVXVXA32kK9,Price Tag,Jessie J,73,10711151,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",62,Who You Are (Platinum Edition),pop,0.638,0.685,0.831,175.038,-3.944,0.182,3.06E-06,0.277,0.0281,5
+5pomCBdsTZSDCFHH8BAUQe,This Is Me,Demi Lovato,80,23923457,"['dance pop', 'pop', 'post-teen pop']",66,Camp Rock,pop,0.421,0.594,0.821,91.245,-2.783,0.0372,0,0.1,0.00971,1
+2zSKv1vA08xkdYlSEpYe1L,Nice Guys,Chester See,41,73981,['viral pop'],42,Nice Guys,pop,0.463,0.841,0.881,88.962,-3.597,0.113,0,0.215,0.589,10
+4urcG6Nfubqsuqy3juMjBi,Brokenhearted,Karmin,51,552749,"['dance pop', 'electropop', 'post-teen pop', 'viral pop']",63,Hello,pop,0.765,0.886,0.765,120.001,-2.732,0.0585,3.82E-06,0.0527,0.00765,1
+3NLnwwAQbbFKcEcV8hDItk,Perfect,One Direction,85,28873568,"['boy band', 'pop', 'post-teen pop', 'talent show']",79,Made In The A.M. (Deluxe Edition),pop,0.647,0.396,0.823,99.933,-5.231,0.0762,0,0.119,0.0598,2
+6MAdEUilV2p9RQUqE5bMAK,Domino,Jessie J,73,10711151,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",66,Who You Are (Platinum Edition),pop,0.757,0.793,0.547,126.977,-4.573,0.0355,0,0.0445,0.0115,7
+4TgxFMOn5yoESW6zCidCXL,Savage Love (Laxed – Siren Beat) [BTS Remix],Jawsh 685,64,109041,['nz pop'],74,Savage Love (Laxed - Siren Beat) [BTS Remix],pop,0.758,0.658,0.598,149.836,-5.695,0.0868,0,0.295,0.16,0
+2QtxlzvSBONjs1bDC34ixs,Yeah 3x,Chris Brown,89,18079005,"['dance pop', 'r&b']",70,F.A.M.E. (Expanded Edition),pop,0.705,0.7,0.882,130,-3.201,0.0445,1.16E-06,0.0934,0.000369,11
+47aQT2aV12TyilaoYi1NiD,Promiscuous,Nelly Furtado,76,3298042,"['canadian latin', 'canadian pop', 'dance pop', 'pop', 'pop rap']",0,Loose,pop,0.795,0.843,0.978,114.321,-6.097,0.0459,8.29E-05,0.143,0.046,10
+6btyEL6NwUa97Nex9cZFvo,Pump It,Black Eyed Peas,82,7129808,"['dance pop', 'pop', 'pop rap']",70,Monkey Business,pop,0.649,0.744,0.931,153.645,-3.15,0.181,0,0.751,0.0093,1
+45hOioMDJktr86iKDHC8gr,Girlfriend,Avril Lavigne,77,9433201,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",75,The Best Damn Thing (Expanded Edition),pop,0.56,0.669,0.959,163.983,-2.433,0.102,0.000221,0.209,0.000722,7
+18zrqdHev7Niaz2MK6P0Rp,Nothin' on You (feat. Bruno Mars),B.o.B,73,2041003,"['atl hip hop', 'dance pop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop']",46,Nothin' on You,pop,0.688,0.743,0.853,103.993,-5.814,0.0493,0,0.0862,0.386,10
+3V2xoX4Ap0ZX9WN8ckSlD4,Mirrors,Justin Timberlake,80,12497513,"['dance pop', 'pop']",0,The 20/20 Experience - The Complete Experience,pop,0.574,0.512,0.512,76.899,-6.664,0.0503,0,0.0946,0.234,5
+6875MeXyCW0wLyT72Eetmo,Starving,Hailee Steinfeld,72,8339456,"['dance pop', 'pop', 'post-teen pop']",35,HAIZ,pop,0.668,0.498,0.613,99.852,-4.225,0.102,0,0.102,0.414,4
+1XXbgifsLFB5pRNWuRqz0t,Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,85,12562513,"['dance pop', 'hip pop', 'pop']",13,Weekendhygge,pop,0.631,0.418,0.531,108.038,-7.26,0.0433,0,0.177,0.399,0
+0rTV5WefWd1J3OwIheTzxM,Talk,Khalid,86,15723070,"['pop', 'pop r&b']",69,Talk,pop,0.9,0.338,0.4,136.001,-8.443,0.124,0,0.0876,0.0501,0
+5p7ujcrUXASCNwRaWNHR1C,Without Me,Halsey,83,19147760,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",78,Without Me,pop,0.752,0.533,0.488,136.041,-7.05,0.0705,9.11E-06,0.0936,0.297,6
+1oHNvJVbFkexQc0BpQp7Y4,Starships,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",74,Pink Friday ... Roman Reloaded,pop,0.747,0.751,0.716,125.008,-2.457,0.075,0,0.251,0.135,11
+0n4bITAu0Y0nigrz3MFJMb,Blurred Lines,Robin Thicke,64,1908679,"['contemporary r&b', 'dance pop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",76,Blurred Lines (Deluxe),pop,0.853,0.843,0.599,119.993,-4.756,0.0411,7.93E-06,0.0759,0.00334,7
+0Dc7J9VPV4eOInoxUiZrsL,Don't Tell 'Em,Jeremih,75,6088608,"['chicago rap', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",74,Late Nights: The Album,pop,0.856,0.386,0.527,98.052,-5.225,0.0997,0,0.11,0.392,2
+1rKBOL9kJfX1Y4C3QaOvRH,Boyfriend,Big Time Rush,66,2596955,"['boy band', 'dance pop', 'pop', 'post-teen pop']",64,BTR,pop,0.614,0.677,0.857,164.146,-4.171,0.111,0,0.177,0.0987,1
+4lsHZ92XCFOQfzJFBTluk8,You Got It,Vedo,62,368220,"['pop r&b', 'pop rap', 'r&b', 'urban contemporary']",72,For You,pop,0.762,0.394,0.433,122.074,-8.937,0.187,0,0.118,0.143,5
+2iUmqdfGZcHIhS3b9E9EWq,Everybody Talks,Neon Trees,66,1202751,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']",79,Picture Show,pop,0.471,0.725,0.924,154.961,-3.906,0.0586,0,0.313,0.00301,8
+1oew3nFNY3vMacJAsvry0S,Me And My Broken Heart,Rixton,62,738919,"['dance pop', 'pop', 'pop rock', 'post-teen pop']",79,Let The Road,pop,0.545,0.551,0.783,174.084,-4.261,0.0345,0,0.132,0.00489,5
+2ZI18qoTqFdSftkjP1olVY,Last Friday Night (T.G.I.F.),Katy Perry,85,24401213,"['dance pop', 'pop']",41,Teenage Dream,pop,0.652,0.72,0.812,126.023,-3.797,0.0409,3.01E-05,0.667,0.00125,3
+3yCzLH2lQ8KknpvsqNCo35,California Gurls,Katy Perry,85,24401213,"['dance pop', 'pop']",41,Teenage Dream,pop,0.788,0.403,0.753,125.005,-3.71,0.0536,0,0.18,0.0038,0
+1nZzRJbFvCEct3uzu04ZoL,Part Of Me,Katy Perry,85,24401213,"['dance pop', 'pop']",75,Teenage Dream: The Complete Confection,pop,0.678,0.769,0.918,130.028,-4.63,0.0355,0,0.0744,0.000417,5
+3CeCwYWvdfXbZLXFhBrbnf,Love Story (Taylor’s Version),Taylor Swift,99,65335726,['pop'],76,Love Story (Taylor’s Version),pop,0.626,0.416,0.79,119.082,-4.302,0.0311,3.97E-06,0.0989,0.135,2
+45sDIKapDyxPl307QpEAwl,Rocketeer,Far East Movement,66,1128656,"['asian american hip hop', 'dance pop', 'edm', 'pop rap']",69,Free Wired,pop,0.664,0.357,0.845,96.005,-6.115,0.0461,0,0.267,0.181,4
+748mdHapucXQri7IAO8yFK,Kiss Me More (feat. SZA),Doja Cat,88,23853054,"['dance pop', 'pop']",81,Kiss Me More (feat. SZA),pop,0.762,0.742,0.701,110.968,-3.541,0.0286,0.000158,0.123,0.235,8
+3bC1ahPIYt1btJzSSEyyrF,Whistle,Flo Rida,79,8739857,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap']",78,Wild Ones,pop,0.747,0.739,0.937,103.976,-5.746,0.0453,0,0.29,0.0208,0
+6TwfdLbaxTKzQi3AgsZNzx,Daylight,Maroon 5,86,39202819,['pop'],63,Overexposed (Deluxe),pop,0.657,0.331,0.679,120.007,-5.511,0.0269,0,0.211,0.00246,2
+4XNrMwGx1SqP01sqkGTDmo,One More Night,Maroon 5,86,39202819,['pop'],71,Overexposed (Deluxe),pop,0.718,0.613,0.82,92.998,-3.453,0.0323,0,0.0846,0.0444,5
+4gbVRS8gloEluzf0GzDOFc,Maps,Maroon 5,86,39202819,['pop'],84,V,pop,0.742,0.879,0.713,120.032,-5.522,0.0303,0,0.059,0.0205,1
+2bL2gyO6kBdLkNSkxXNh6x,Animals,Maroon 5,86,39202819,['pop'],81,V,pop,0.279,0.328,0.742,189.868,-6.46,0.0898,0,0.593,0.000185,4
+5YJtMNWKe55yr49cyJgxva,Everytime We Touch,Cascada,67,463866,"['bubblegum dance', 'dance pop', 'eurodance', 'europop', 'german techno', 'melbourne bounce international', 'pop rap']",72,Everytime We Touch (Premium Edition),pop,0.633,0.493,0.976,142.027,-5.362,0.0519,1.29E-05,0.382,0.00281,8
+5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI,82,4164055,"['australian hip hop', 'pop']",88,STAY (with Justin Bieber),pop,0.591,0.478,0.764,169.928,-5.484,0.0483,0,0.103,0.0383,1
+33KJ2xFYONOlIYDBg6wPx8,Personal,HRVY,65,1615249,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",69,Talk To Ya - EP,pop,0.755,0.882,0.536,138.969,-5.605,0.12,0,0.0282,0.114,8
+02MWAaffLxlfxAUY7c5dvx,Heat Waves,Glass Animals,79,3572305,"['gauze pop', 'indietronica', 'shiver pop']",88,Dreamland (+ Bonus Levels),pop,0.761,0.531,0.525,80.87,-6.9,0.0944,6.70E-06,0.0921,0.44,11
+6Uj1ctrBOjOas8xZXGqKk4,Woman,Doja Cat,88,23853054,"['dance pop', 'pop']",88,Planet Her,pop,0.824,0.881,0.764,107.998,-4.175,0.0854,0.00294,0.117,0.0888,5
+5nujrmhLynf4yMoMtj8AQF,Levitating (feat. DaBaby),Dua Lipa,89,38008995,"['dance pop', 'pop', 'uk pop']",85,Future Nostalgia,pop,0.702,0.915,0.825,102.977,-3.787,0.0601,0,0.0674,0.00883,6
+02M6vucOvmRfMxTXDUwRXu,11-Jul,Beyoncé,87,33151535,"['dance pop', 'pop', 'r&b']",69,BEYONCÉ [Platinum Edition],party,0.747,0.56,0.705,136.024,-5.137,0.126,0,0.126,0.0128,9
+05Z7jet4VDNVgNQWcYHnrk,Party (feat. Usher & Gucci Mane),Chris Brown,89,18079005,"['dance pop', 'r&b']",0,Party (feat. Usher & Gucci Mane),party,0.762,0.316,0.576,142.096,-4.951,0.0829,0,0.0869,0.0556,1
+4DvhkX2ic4zWkQeWMwQ2qf,Like A G6,Far East Movement,66,1128656,"['asian american hip hop', 'dance pop', 'edm', 'pop rap']",70,Free Wired,party,0.435,0.778,0.837,124.913,-8.126,0.449,0,0.117,0.00676,3
+41Fflg7qHiVOD6dEPvsCzO,Worth It (feat. Kid Ink),Fifth Harmony,70,15204612,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show']",74,Reflection (Deluxe),party,0.884,0.594,0.765,99.987,-3.865,0.0882,7.04E-06,0.118,0.063,8
+0CAfXk7DXMnon4gLudAp7J,Low (feat. T-Pain),Flo Rida,79,8739857,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap']",82,Mail on Sunday,party,0.918,0.304,0.609,128.008,-5.64,0.0791,0,0.139,0.0928,10
+6g6A7qNhTfUgOSH7ROOxTD,Talk Dirty (feat. 2 Chainz),Jason Derulo,80,11668253,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",66,Talk Dirty,party,0.76,0.759,0.652,100.315,-7.321,0.232,0,0.307,0.0348,6
+2sLwPnIP3CUVmIuHranJZU,Wiggle (feat. Snoop Dogg),Jason Derulo,80,11668253,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",58,Talk Dirty,party,0.697,0.721,0.621,81.946,-6.886,0.25,0,0.162,0.0802,9
+5Isz0twJeFdduOQEFQLezv,Confident,Justin Bieber,92,68842404,"['canadian pop', 'pop']",66,Journals,party,0.738,0.876,0.563,134.132,-5.467,0.11,0,0.191,0.113,5
+4Lvc9SbPc0svm9TEoMgFzB,SexyBack (feat. Timbaland),Justin Timberlake,80,12497513,"['dance pop', 'pop']",59,FutureSex/LoveSounds Deluxe Edition,party,0.967,0.964,0.599,117,-5.659,0.0706,0,0.0526,0.0679,7
+4QNpBfC0zvjKqPJcyqBy9W,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",83,Planet Pit (Deluxe Version),party,0.671,0.53,0.939,129.024,-3.206,0.161,0,0.298,0.191,8
+1Jo0Zg7XlrA6z0mFTZVdkn,Don't Stop The Music,Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",68,Good Girl Gone Bad,party,0.835,0.542,0.669,122.668,-5.582,0.0643,6.92E-05,0.0535,0.0336,6
+6jAsmDJI8iPhGWtS27kZ67,Only Girl (In The World),Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",55,Loud,party,0.786,0.595,0.716,125.921,-4.253,0.0409,1.72E-05,0.0557,0.102,11
+7ySUcLPVX7KudhnmNcgY2D,S&M,Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",79,Loud (Japan Version),party,0.769,0.835,0.684,127.972,-5.019,0.0411,0.000125,0.0887,0.0105,1
+6qn9YLKt13AGvpq9jfO8py,We Found Love,Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",80,Talk That Talk,party,0.734,0.6,0.766,127.986,-4.485,0.0383,0.00138,0.108,0.025,1
+5rb9QrpfcKFHM1EUbSIurX,Yeah! (feat. Lil Jon & Ludacris),Usher,80,10218870,"['atl hip hop', 'contemporary r&b', 'dance pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",83,Confessions (Expanded Edition),party,0.894,0.583,0.791,105.018,-4.699,0.112,0,0.0388,0.0183,2
+66TRwr5uJwPt15mfFkzhbi,Crank That (Soulja Boy),Soulja Boy,70,1694919,"['atl hip hop', 'chicago bop', 'dance pop', 'dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",76,souljaboytellem.com,party,0.736,0.803,0.74,140.141,-2.18,0.0786,0,0.0468,0.515,0
+0puf9yIluy9W0vpMEUoAnN,Bang Bang,Jessie J,73,10711151,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",79,Sweet Talker (Deluxe Version),party,0.706,0.751,0.786,150.028,-3.417,0.091,0,0.38,0.26,0
+5R9a4t5t5O0IsznsrKPVro,Single Ladies (Put a Ring on It),Beyoncé,87,33151535,"['dance pop', 'pop', 'r&b']",70,I AM...SASHA FIERCE,party,0.426,0.272,0.584,193.437,-5.293,0.296,0,0.188,0.0383,1
+6GgPsuz0HEO0nrO2T0QhDv,No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,66,2556368,"['atl hip hop', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",60,No Hands (feat. Roscoe Dash & Wale),party,0.76,0.361,0.595,131.497,-6.366,0.0391,0,0.241,0.00544,1
+5IVuqXILoxVWvWEPm82Jxr,Crazy In Love (feat. Jay-Z),Beyoncé,87,33151535,"['dance pop', 'pop', 'r&b']",79,Dangerously In Love,party,0.646,0.681,0.77,99.165,-6.596,0.226,0,0.0715,0.00249,2
+7H6ev70Weq6DdpZyyTmUXk,Say My Name,Destiny's Child,73,6038937,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b', 'urban contemporary']",77,The Writing's On The Wall,party,0.713,0.734,0.678,138.009,-3.525,0.102,0,0.149,0.273,5
+5eqiMMbaeUZ32Q7sS00H35,Anaconda,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",67,The Pinkprint (International Deluxe Explicit),party,0.964,0.646,0.605,129.994,-6.223,0.179,7.78E-06,0.214,0.0668,9
+1UMKquW1olreYO1LlLmTqi,Gas Pedal,Sage The Gemini,65,831145,"['dance pop', 'hyphy', 'pop rap', 'rap', 'southern hip hop', 'viral rap']",68,Remember Me,party,0.843,0.428,0.538,97.49,-8.028,0.0833,0,0.124,0.0273,1
+4Oun2ylbjFKMPTiaSbbCih,WAP (feat. Megan Thee Stallion),Cardi B,82,20923559,"['dance pop', 'pop', 'rap']",81,WAP (feat. Megan Thee Stallion),party,0.935,0.357,0.454,133.073,-7.509,0.375,0,0.0824,0.0194,1
+1Ser4X0TKttOvo8bgdytTP,Come Get Her,Rae Sremmurd,73,7019165,"['hip hop', 'melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",75,SremmLife,party,0.689,0.123,0.564,185.023,-6.226,0.136,0,0.0721,0.187,2
+79MdCm8nIXEDX9mREGuyri,몸매 Mommae (feat. Ugly Duck),Jay Park,67,1853058,"['k-pop', 'k-rap', 'korean r&b', 'pop']",0,몸매 Mommae,party,0.7,0.684,0.692,93.863,-4.775,0.304,0,0.104,0.222,0
+3hlksXnvbKogFdPbpO9vel,Super Bass,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",79,Pink Friday (Complete Edition),party,0.723,0.667,0.86,126.979,-4.357,0.203,4.56E-06,0.598,0.271,11
+0PG9fbaaHFHfre2gUVo7AN,Please Me,Cardi B,82,20923559,"['dance pop', 'pop', 'rap']",75,Please Me,party,0.747,0.65,0.57,133.992,-6.711,0.081,0,0.0832,0.0642,1
+7pNC5ZIKtwUK0ReSpM3P9f,Black Widow,Iggy Azalea,69,6221801,"['australian hip hop', 'dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'rap', 'viral rap']",66,The New Classic,party,0.743,0.519,0.72,163.99,-3.753,0.124,0.000386,0.109,0.192,11
+7LP4Es66zdY7CyjepqmvAg,Down,Jay Sean,67,1644356,"['dance pop', 'pop rap', 'post-teen pop', 'urban contemporary']",1,All Or Nothing,party,0.657,0.683,0.695,65.997,-4.493,0.0321,0,0.0822,0.0108,2
+0Oe49j06Bjrxs8PltuVeaW,On The Floor - Radio Edit,Jennifer Lopez,77,12270288,"['dance pop', 'pop', 'pop rap', 'urban contemporary']",74,On The Floor,party,0.758,0.444,0.686,130.007,-6.346,0.0792,0.00127,0.142,0.0848,11
+5OMwQFBcte0aWFJFqrr5oj,TiK ToK,Kesha,76,7489857,"['dance pop', 'pop', 'post-teen pop']",0,Animal,party,0.755,0.735,0.832,120.032,-2.741,0.116,1.27E-06,0.291,0.0746,2
+0WfKDYeUAoLA3vdvLKKWMW,Poker Face,Lady Gaga,87,24485441,"['art pop', 'dance pop', 'pop']",0,The Fame,party,0.851,0.776,0.806,119.001,-4.618,0.0786,1.33E-06,0.121,0.12,4
+2y4lAQpi5VTNLu2ldeTdUH,We Can't Stop,Miley Cyrus,82,19089467,"['dance pop', 'pop', 'post-teen pop']",78,Bangerz (Deluxe Version),party,0.613,0.484,0.622,80.003,-5.794,0.0334,0,0.37,0.00882,1
+0rIAC4PXANcKmitJfoqmVm,Motivation,Normani,70,2241949,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']",70,Motivation,party,0.599,0.881,0.887,170.918,-3.967,0.0984,1.21E-06,0.3,0.0192,4
+3cHyrEgdyYRjgJKSOiOtcS,Timber (feat. Ke$ha),Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",82,Global Warming: Meltdown (Deluxe Version),party,0.581,0.788,0.963,129.992,-4.087,0.0981,0,0.139,0.0295,11
+0Hf4aIJpsN4Os2f0y0VqWl,Feel This Moment (feat. Christina Aguilera),Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",78,Global Warming: Meltdown (Deluxe Version),party,0.673,0.542,0.758,135.956,-3.632,0.158,0,0.341,0.039,7
+62zFEHfAYl5kdHYOivj4BC,International Love (feat. Chris Brown),Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",77,Planet Pit (Deluxe Version),party,0.67,0.648,0.855,120.05,-3.035,0.0499,0,0.335,0.0124,0
+2EBCVPNAG46nbgs6jXPGvv,Starships,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",78,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),party,0.747,0.751,0.716,125.008,-2.457,0.075,0,0.251,0.135,11
+0LohatbcUXRauoeMlR1jnS,Pound The Alarm,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",61,Pink Friday ... Roman Reloaded,party,0.728,0.591,0.858,125.054,-3.686,0.0609,4.26E-06,0.0241,0.0403,9
+16Of7eeW44kt0a1M0nitHM,You Make Me Feel... (feat. Sabi),Cobra Starship,58,487542,"['dance pop', 'electropop', 'neon pop punk', 'pop punk', 'post-teen pop']",71,Night Shades,party,0.668,0.748,0.857,131.959,-2.944,0.0535,6.71E-06,0.0385,0.0191,7
+4356Typ82hUiFAynbLYbPn,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,80,10218870,"['atl hip hop', 'contemporary r&b', 'dance pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",80,Raymond v Raymond (Expanded Edition),party,0.663,0.654,0.861,119.963,-3.398,0.109,0,0.082,0.0338,7
+4AYX69oFP3UOS1CFmV9UfO,Bottoms Up (feat. Nicki Minaj),Trey Songz,70,7009381,"['dance pop', 'hip pop', 'pop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",72,"Passion, Pain & Pleasure (Deluxe Version)",party,0.844,0.331,0.601,73.989,-5.283,0.157,0,0.385,0.0205,1
+2yPoXCs7BSIUrucMdK5PzV,Umbrella,Rihanna,90,51876953,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",70,Good Girl Gone Bad,party,0.583,0.575,0.829,174.028,-4.603,0.134,0,0.0426,0.00864,1
+0k2GOhqsrxDTAbFFSdNJjT,Temperature,Sean Paul,80,4178340,"['dance pop', 'dancehall', 'pop rap']",80,The Trinity,party,0.951,0.822,0.6,125.04,-4.675,0.0685,0,0.0712,0.106,0
+6I9VzXrHxO9rA9A5euc8Ak,Toxic,Britney Spears,83,11740391,"['dance pop', 'pop']",83,In The Zone,party,0.774,0.924,0.838,143.04,-3.914,0.114,0.025,0.242,0.0249,5
+12eMQUn2GzfsfsQLH53M19,Scream,Usher,80,10218870,"['atl hip hop', 'contemporary r&b', 'dance pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",67,Looking 4 Myself (Expanded Edition),party,0.616,0.569,0.862,127.992,-5.18,0.0973,0,0.179,0.00117,7
+6ebkx7Q5tTxrCxKq4GYj0Y,Club Can't Handle Me (feat. David Guetta),Flo Rida,79,8739857,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap']",77,Only One Flo (Part 1),party,0.616,0.473,0.869,127.966,-3.911,0.0327,0,0.064,0.0283,0
+6KOEK6SeCEZOQkLj5M1PxH,California Gurls,Katy Perry,85,24401213,"['dance pop', 'pop']",71,Teenage Dream,party,0.788,0.403,0.753,125.005,-3.71,0.0536,0,0.18,0.0038,0
+6QFCMUUq1T2Vf5sFUXcuQ7,Beauty And A Beat,Justin Bieber,92,68842404,"['canadian pop', 'pop']",74,Believe,party,0.601,0.534,0.843,128.002,-4.87,0.0593,5.27E-05,0.0681,0.000704,0
+2QtxlzvSBONjs1bDC34ixs,Yeah 3x,Chris Brown,89,18079005,"['dance pop', 'r&b']",70,F.A.M.E. (Expanded Edition),party,0.705,0.7,0.882,130,-3.201,0.0445,1.16E-06,0.0934,0.000369,11
+5qTvkDrSfvwDv6RBjjcfQr,Get Busy,Sean Paul,80,4178340,"['dance pop', 'dancehall', 'pop rap']",76,Dutty Rock,party,0.735,0.726,0.824,100.202,-4.143,0.036,0,0.158,0.615,10
+6s8nHXTJVqFjXE4yVZPDHR,Troublemaker (feat. Flo Rida),Olly Murs,67,3271334,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'talent show', 'uk pop']",75,Right Place Right Time (Expanded Edition),party,0.762,0.965,0.863,106.012,-3.689,0.0561,0,0.125,0.015,0
+7gvd8xj4QgPqbQSsn5pV7d,Sorry Not Sorry,Demi Lovato,80,23923457,"['dance pop', 'pop', 'post-teen pop']",2,Tell Me You Love Me (Deluxe),party,0.705,0.887,0.64,144.077,-6.928,0.225,0,0.262,0.0237,11
+0Dc7J9VPV4eOInoxUiZrsL,Don't Tell 'Em,Jeremih,75,6088608,"['chicago rap', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",74,Late Nights: The Album,party,0.856,0.386,0.527,98.052,-5.225,0.0997,0,0.11,0.392,2
+30XU4suKzCeoCK9YFzdufg,Born This Way,Lady Gaga,87,24485441,"['art pop', 'dance pop', 'pop']",76,Born This Way (International Special Edition Version),party,0.587,0.494,0.828,123.907,-5.108,0.161,0,0.331,0.00327,11
+1dzQoRqT5ucxXVaAhTcT0J,Just Dance,Lady Gaga,87,24485441,"['art pop', 'dance pop', 'pop']",82,The Fame,party,0.822,0.745,0.739,118.992,-4.541,0.0311,4.26E-05,0.181,0.0264,1
+0n4bITAu0Y0nigrz3MFJMb,Blurred Lines,Robin Thicke,64,1908679,"['contemporary r&b', 'dance pop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",76,Blurred Lines (Deluxe),party,0.853,0.843,0.599,119.993,-4.756,0.0411,7.93E-06,0.0759,0.00334,7
+6FE2iI43OZnszFLuLtvvmg,Classic,MKTO,66,1011788,"['dance pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",81,MKTO,party,0.72,0.756,0.791,102.071,-4.689,0.124,0,0.157,0.0384,1
+1oHNvJVbFkexQc0BpQp7Y4,Starships,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",74,Pink Friday ... Roman Reloaded,party,0.747,0.751,0.716,125.008,-2.457,0.075,0,0.251,0.135,11
+1rfofaqEpACxVEHIZBJe6W,Havana (feat. Young Thug),Camila Cabello,82,28993976,"['dance pop', 'pop', 'post-teen pop']",81,Camila,party,0.765,0.394,0.523,104.988,-4.333,0.03,3.56E-05,0.132,0.184,2
+2OsEJFTfzfjG4oC92cuP2c,Slow Down,Selena Gomez,85,39361893,"['dance pop', 'pop', 'post-teen pop']",65,Stars Dance (Bonus Track Version),party,0.722,0.721,0.821,127.944,-3.856,0.165,0,0.631,0.073,1
+2q4rjDy9WhaN3o9MvDbO21,Kiss Me Thru The Phone,Soulja Boy,70,1694919,"['atl hip hop', 'chicago bop', 'dance pop', 'dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",78,iSouljaBoyTellem,party,0.758,0.795,0.712,149.998,-3.781,0.112,0,0.0677,0.0185,7
+0IkKz2J93C94Ei4BvDop7P,Party Rock Anthem,LMFAO,68,4129792,"['dance pop', 'pop rap']",70,Sorry For Party Rocking,party,0.75,0.359,0.727,129.993,-4.21,0.142,0,0.266,0.0189,5
+0obBFrPYkSoBJbvHfUIhkv,Sexy And I Know It,LMFAO,68,4129792,"['dance pop', 'pop rap']",65,Sorry For Party Rocking (Deluxe Version),party,0.707,0.795,0.861,130.021,-4.225,0.316,0,0.191,0.1,7
+3wKKkGVn7cVSfgPeYYIiXG,Kiss Kiss (feat. T-Pain),Chris Brown,89,18079005,"['dance pop', 'r&b']",72,Exclusive (Expanded Edition),party,0.729,0.551,0.658,140.043,-3.386,0.225,0,0.0693,0.0506,10
+2ZAx6NDhX2yE5aL5ueEQgY,Mr. Saxobeat,Alexandra Stan,62,365259,"['dance pop', 'electropop', 'romanian pop']",65,Saxobeats,party,0.72,0.781,0.925,127.004,-4.165,0.0511,0.000238,0.14,0.0276,4
+4Y7XAxTANhu3lmnLAzhWJW,Fireball (feat. John Ryan),Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",74,Globalization,party,0.761,0.836,0.933,122.959,-5.38,0.056,8.53E-05,0.0607,0.0908,10
+5XSZ8onipRr35H0wpWWsW3,Danza Kuduro,Don Omar,82,8486707,"['latin hip hop', 'puerto rican pop', 'reggaeton', 'urbano latino']",0,Danza Kuduro,party,0.701,0.886,0.914,130.078,-4.938,0.0851,0,0.0448,0.0817,0
+6jEZLz3YpnEBRpVkv35AmP,Gasolina,Daddy Yankee,88,30858868,"['latin hip hop', 'reggaeton', 'urbano latino']",3,Barrio Fino (Bonus Track Version),party,0.857,0.753,0.801,96.009,-6.499,0.0618,1.20E-06,0.0789,0.332,0
+0RRm4OS5ymfZryXBuj0G2m,Twerk (feat. Cardi B),City Girls,67,2152356,"['dance pop', 'pop', 'r&b', 'rap', 'scam rap', 'trap queen']",64,Girl Code,party,0.788,0.481,0.842,190.077,-4.006,0.142,0.00112,0.166,0.121,4
+0OPyDgTRuIdCJ9B4bYSths,Hotel Room Service,Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",71,Pitbull Starring In Rebelution,party,0.85,0.738,0.631,126.002,-8.401,0.227,0.000406,0.0679,0.00684,1
+2yjlYDiNiQkdxVqTlaSrlX,Super Freaky Girl,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",80,Queen Radio: Volume 1,party,0.951,0.923,0.878,133.014,-2.565,0.211,1.61E-05,0.321,0.0509,2
+42nSaPdT6g3ZIMHmKLlP2p,Let's Get Loud,Jennifer Lopez,77,12270288,"['dance pop', 'pop', 'pop rap', 'urban contemporary']",69,On The 6,party,0.82,0.906,0.937,130.992,-4.81,0.0549,0.000122,0.35,0.135,5
+4C6Uex2ILwJi9sZXRdmqXp,Super Freaky Girl,Nicki Minaj,86,27058629,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",87,Super Freaky Girl,party,0.95,0.912,0.891,133.01,-2.653,0.241,1.77E-05,0.309,0.0645,2
+7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),Calvin Harris,85,23091066,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",89,One Kiss (with Dua Lipa),party,0.791,0.592,0.862,123.994,-3.24,0.11,2.19E-05,0.0814,0.037,9
+4Li2WHPkuyCdtmokzW2007,Ni**as In Paris,JAY-Z,84,7885183,"['east coast hip hop', 'hip hop', 'rap']",85,Watch The Throne (Deluxe),party,0.789,0.775,0.858,140.022,-5.542,0.311,0,0.349,0.127,1
+2bJvI42r8EF3wxjOuDav4r,Time of Our Lives,Pitbull,83,9771925,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",81,Globalization,party,0.721,0.724,0.802,124.022,-5.797,0.0583,0,0.694,0.0921,1
+2CEgGE6aESpnmtfiZwYlbV,Dynamite,Taio Cruz,70,2185286,"['dance pop', 'edm', 'pop', 'pop rap']",82,The Rokstarr Hits Collection,party,0.751,0.816,0.783,119.975,-3.724,0.0859,0,0.036,0.00379,4
+63rbP24OzfaQCJjsHWZXnY,Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,90,25265058,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",66,Nothing but the Beat 2.0,party,0.664,0.555,0.872,129.873,-3.117,0.0396,0,0.228,0.0306,3
+3avYqdwHKEq8beXbeWCKqJ,Last Friday Night (T.G.I.F.),Katy Perry,85,24401213,"['dance pop', 'pop']",75,Teenage Dream,party,0.652,0.72,0.812,126.023,-3.797,0.0409,3.01E-05,0.667,0.00125,3
+3ZFTkvIE7kyPt6Nu3PEa7V,Hips Don't Lie (feat. Wyclef Jean),Shakira,87,26077542,"['colombian pop', 'dance pop', 'latin pop']",85,"Oral Fixation, Vol. 2 (Expanded Edition)",party,0.778,0.758,0.824,100.024,-5.892,0.0707,0,0.405,0.284,10
+7EQGXaVSyEDsCWKmUcfpLk,Die Young,Kesha,76,7489857,"['dance pop', 'pop', 'post-teen pop']",78,Warrior (Expanded Edition),party,0.711,0.801,0.7,128.001,-4.805,0.046,0.000125,0.215,0.00498,1
+1NpW5kyvO4XrNJ3rnfcNy3,Wild Ones (feat. Sia),Flo Rida,79,8739857,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap']",78,Wild Ones,party,0.608,0.437,0.86,127.075,-5.324,0.0554,0,0.262,0.0991,5
+01TuObJVd7owWchVRuQbQw,#thatPOWER,will.i.am,73,3915783,"['dance pop', 'pop', 'pop rap']",67,#willpower (Deluxe),party,0.797,0.402,0.608,127.999,-6.096,0.0584,7.66E-05,0.0748,0.00112,6
+1bM50INir8voAkVoKuvEUI,OMG (feat. will.i.am),Usher,80,10218870,"['atl hip hop', 'contemporary r&b', 'dance pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",74,Raymond v Raymond (Expanded Edition),party,0.781,0.326,0.745,129.998,-5.81,0.0332,1.14E-05,0.36,0.198,4
+3LUWWox8YYykohBbHUrrxd,We R Who We R,Kesha,76,7489857,"['dance pop', 'pop', 'post-teen pop']",72,Cannibal (Expanded Edition),party,0.736,0.653,0.817,119.95,-4.9,0.0407,0.00167,0.117,0.00987,8
+3C0nOe05EIt1390bVABLyN,On The Floor,Jennifer Lopez,77,12270288,"['dance pop', 'pop', 'pop rap', 'urban contemporary']",80,Love?,party,0.73,0.575,0.777,130,-5.194,0.0496,0.000478,0.0691,0.105,3
+1V4jC0vJ5525lEF1bFgPX2,Shots,LMFAO,68,4129792,"['dance pop', 'pop rap']",70,Party Rock,party,0.825,0.207,0.856,128.016,-1.912,0.0476,1.40E-06,0.127,0.00851,1
+2LEF1A8DOZ9wRYikWgVlZ8,Good Feeling,Flo Rida,79,8739857,"['dance pop', 'edm', 'miami hip hop', 'pop', 'pop rap']",78,Wild Ones,party,0.706,0.684,0.89,128.011,-4.444,0.0688,0.00286,0.306,0.0588,1
+67T6l4q3zVjC5nZZPXByU8,Whatcha Say,Jason Derulo,80,11668253,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",67,Jason Derulo,party,0.615,0.711,0.711,144.036,-5.507,0.0779,0,0.145,0.0444,11
+4Dio1t8RHzLv1nfPJTSZyP,Whip My Hair,WILLOW,75,2265933,"['afrofuturism', 'pop', 'post-teen pop']",62,Whip My Hair,party,0.552,0.668,0.98,162.961,-4.676,0.254,0.00552,0.438,0.00159,9
+19JdbdEwQI7bCxefMokZO8,My Humps,Black Eyed Peas,82,7129808,"['dance pop', 'pop', 'pop rap']",68,Monkey Business,party,0.801,0.586,0.682,123.95,-5.919,0.225,1.56E-05,0.109,0.111,1
+7fBv7CLKzipRk6EC6TWHOB,The Hills,The Weeknd,96,55798489,"['canadian contemporary r&b', 'canadian pop', 'pop']",88,Beauty Behind The Madness,party,0.585,0.137,0.564,113.003,-7.063,0.0515,0,0.135,0.0671,0
+0ffweDHrg4bZqdG4IfGYuo,Pied Piper,BTS,92,59623239,"['k-pop', 'k-pop boy group']",2,Love Yourself 承 'Her',kpop,0.583,0.776,0.712,94.051,-4.942,0.0326,0,0.268,0.2,2
+5hnbE5BF2e8BCk9OMR1UVC,Mikrokosmos,BTS,92,59623239,"['k-pop', 'k-pop boy group']",2,MAP OF THE SOUL : PERSONA,kpop,0.58,0.475,0.858,174.039,-5.212,0.114,0,0.0502,0.125,8
+7lthOBXNue2IvedLRfkod8,HOME,BTS,92,59623239,"['k-pop', 'k-pop boy group']",2,MAP OF THE SOUL : PERSONA,kpop,0.633,0.535,0.799,142.991,-4.625,0.0429,0,0.194,0.0142,7
+5cQB9fbuQCz4muQUFkv3rR,Serendipity (Full Length Edition),BTS,92,59623239,"['k-pop', 'k-pop boy group']",1,Love Yourself 結 'Answer',kpop,0.347,0.226,0.578,86.73,-7.525,0.0626,0,0.231,0.445,8
+6KUE0HSSudAp9AOycaF6SH,Make It Right,BTS,92,59623239,"['k-pop', 'k-pop boy group']",2,MAP OF THE SOUL : PERSONA,kpop,0.638,0.261,0.703,105.766,-7.874,0.444,0,0.132,0.0104,7
+4CvId64YZSB0RfRdfzPIQU,So What,BTS,92,59623239,"['k-pop', 'k-pop boy group']",1,Love Yourself 轉 'Tear',kpop,0.656,0.46,0.883,129.947,-4.294,0.0737,0,0.0481,0.0238,9
+645YBsxhFPSOKxGep3uHLv,Love Maze,BTS,92,59623239,"['k-pop', 'k-pop boy group']",1,Love Yourself 轉 'Tear',kpop,0.636,0.759,0.876,149.932,-4.652,0.0617,0,0.0728,0.0487,9
+5XkyZyKMdFungjDb9cUKc3,A Brand New Day (BTS World Original Soundtrack) [Pt. 2],BTS,92,59623239,"['k-pop', 'k-pop boy group']",59,A Brand New Day (BTS World Original Soundtrack) [Pt. 2],kpop,0.804,0.704,0.498,105.008,-7.387,0.0571,0.000236,0.18,0.339,8
+4c1WgUnHXq2LEncGHKgj1I,Dream Glow (BTS World Original Soundtrack) - Pt. 1,BTS,92,59623239,"['k-pop', 'k-pop boy group']",62,Dream Glow (BTS World Original Soundtrack) [Pt. 1],kpop,0.735,0.541,0.74,141.948,-3.837,0.0519,0,0.101,0.0967,0
+4CVwRasMz0DvGbYRkr5fDq,いいね!Pt.2 ~あの場所で~,BTS,92,59623239,"['k-pop', 'k-pop boy group']",27,THE BEST OF 防弾少年団,kpop,0.681,0.848,0.712,95.118,-6.088,0.197,0,0.365,0.459,11
+5IYnriBBJz1iz1ki3bJnWo,Coffee,BTS,92,59623239,"['k-pop', 'k-pop boy group']",0,"O!RUL8,2?",kpop,0.656,0.572,0.798,92.03,-6.608,0.103,0,0.321,0.00862,0
+38td8VabuKlQt72Q2VnhbO,134340,BTS,92,59623239,"['k-pop', 'k-pop boy group']",1,Love Yourself 轉 'Tear',kpop,0.664,0.65,0.688,106.022,-6.466,0.0543,9.14E-05,0.173,0.153,11
+01dmH2IPkrLNWIMPNXlreE,Paradise,BTS,92,59623239,"['k-pop', 'k-pop boy group']",1,Love Yourself 轉 'Tear',kpop,0.519,0.929,0.828,139.413,-5.523,0.365,0,0.0571,0.214,5
+22ryCgQttpV7oCrn7llGRu,Magic Shop,BTS,92,59623239,"['k-pop', 'k-pop boy group']",1,Love Yourself 轉 'Tear',kpop,0.541,0.285,0.661,149.926,-5.838,0.0889,0,0.0779,0.103,1
+3p6hnejEQYXkiTO1lAzVc0,Euphoria,BTS,92,59623239,"['k-pop', 'k-pop boy group']",3,Love Yourself 結 'Answer',kpop,0.637,0.562,0.799,104.995,-4.519,0.0338,0,0.0921,0.394,2
+41sIKltzKnhFsDXWTKjO3R,So Far Away,Agust D,66,10453777,['k-rap'],0,Agust D,kpop,0.485,0.277,0.828,93.723,-4.505,0.112,0,0.325,0.00927,11
+0ono6UCNVZ1XqOm6j78Blu,Filter,BTS,92,59623239,"['k-pop', 'k-pop boy group']",2,MAP OF THE SOUL : 7,kpop,0.781,0.86,0.762,110.042,-5.188,0.0626,0,0.121,0.0222,10
+4vTgx6h4seHvkuFh84JXYP,My Time,BTS,92,59623239,"['k-pop', 'k-pop boy group']",1,MAP OF THE SOUL : 7,kpop,0.674,0.664,0.64,99.908,-5.139,0.0339,0,0.0925,0.151,0
+5GKwq4sO5ZHKuWaDmdwMQc,Bad Boy,Red Velvet,76,7959535,"['k-pop', 'k-pop girl group']",74,The Perfect Red Velvet - The 2nd Album Repackage,kpop,0.714,0.814,0.736,149.985,-3.801,0.0457,0,0.0553,0.191,2
+2r5oD7twaQTsv5KoRS6v16,Really,BLACKPINK,86,35989680,"['k-pop', 'k-pop girl group']",0,SQUARE UP,kpop,0.696,0.947,0.881,142.019,-2.082,0.104,0,0.277,0.0235,1
+6MN6oiT2d7qxYEOwXwgV34,Kick It,BLACKPINK,86,35989680,"['k-pop', 'k-pop girl group']",0,Kill This Love,kpop,0.765,0.381,0.787,124.949,-3.647,0.0445,0,0.0736,0.0156,1
+4TWHREp4wv0TmewqR6rgRd,STAY,BLACKPINK,86,35989680,"['k-pop', 'k-pop girl group']",0,SQUARE TWO,kpop,0.628,0.343,0.433,88.074,-6.808,0.0383,7.71E-06,0.104,0.569,1
+2oqbLpgVM4sCN34TeNBYEP,LUV,Apink,54,1147194,"['k-pop', 'k-pop girl group']",0,Pink LUV + Blossom,kpop,0.735,0.685,0.911,103.978,-3.282,0.0437,0,0.074,0.0511,6
+6xTwMQnaWFzi9bduxSIUra,Petal,Apink,54,1147194,"['k-pop', 'k-pop girl group']",28,Pink MEMORY,kpop,0.591,0.443,0.814,140.01,-4.809,0.0934,6.44E-06,0.129,0.421,6
+3ObPkJQAgjAhTwYvDhPrAW,Blue Hour,TOMORROW X TOGETHER,77,7266810,"['k-pop', 'k-pop boy group']",73,minisode1 : Blue Hour,kpop,0.71,0.746,0.82,112.005,-4.362,0.0836,0,0.0871,0.00962,3
+2n9soKlLyzuJvTTc7a0OOT,나를 잊지마요,Girl's Day,48,683891,"['k-pop', 'k-pop girl group']",38,기대,kpop,0.624,0.623,0.971,133.82,-0.299,0.0779,0,0.31,0.111,0
+53PNN2kVM1eFU8C9KRs1jT,Because of you,After School,44,321589,"['k-pop', 'k-pop girl group']",6,Because of You,kpop,0.691,0.585,0.826,124.884,-3.968,0.0335,0,0.34,0.255,1
+2zpQSMe7xEFeSdGNoFLWl8,DIVA,After School,44,321589,"['k-pop', 'k-pop girl group']",4,Diva,kpop,0.675,0.856,0.988,129.98,-2.093,0.0612,0,0.24,0.186,4
+2LdOm1BBfBbQjw9LrqmfuC,First Love,After School,44,321589,"['k-pop', 'k-pop girl group']",45,After School The 6th Maxi Single 'First Love',kpop,0.689,0.672,0.851,89.99,-2.96,0.0594,0,0.263,0.135,4
+1rp986nzkyAX1wFpxzbwlC,Replay,SHINee,62,2863888,"['k-pop', 'k-pop boy group']",64,The SHINee World - The First Album,kpop,0.716,0.59,0.779,99.977,-2.203,0.0805,1.16E-06,0.167,0.178,1
+46E1ic6n099e76t5J1TbHn,View,SHINee,62,2863888,"['k-pop', 'k-pop boy group']",60,Odd - The 4th Album,kpop,0.728,0.656,0.801,123.953,-4.428,0.0439,0,0.0415,0.04,6
+1EYSS9Lp7a9f20C3FaOVgI,Baby Don’t Stop,NCT,58,5386708,"['k-pop', 'k-pop boy group']",64,NCT 2018 EMPATHY,kpop,0.827,0.352,0.739,95.999,-6.391,0.0744,4.13E-06,0.043,0.0214,8
+2MsNSKQNQNRklkKFxxvIav,9 and Three Quarters (Run Away),TOMORROW X TOGETHER,77,7266810,"['k-pop', 'k-pop boy group']",0,The Dream Chapter: MAGIC,kpop,0.639,0.532,0.756,128.937,-4.42,0.0608,0,0.13,0.0055,1
+2HtcPHFdo7eu4Ilbvb0BVI,Feel Special,TWICE,81,16122933,"['k-pop', 'k-pop girl group']",0,Feel Special,kpop,0.709,0.644,0.959,128.983,-1.339,0.0603,0.00188,0.107,0.0296,1
+5xN4mELTPNXfLMpr5PqnHX,넘버나인,T-ARA,53,759698,"['k-pop', 'k-pop girl group']",0,Again 1977,kpop,0.756,0.506,0.835,127.986,-3.697,0.04,2.13E-06,0.05,0.0102,1
+2orE4MtP5Oy0ynoA1KkF3t,"눈,코,입(Eyes, Noes, Lips)",TAEYANG,56,835651,['korean r&b'],0,RISE,kpop,0.631,0.254,0.516,143.777,-5.759,0.0378,0,0.264,0.738,0
+3d3RUv7bMGWEHw5Rr6TBjL,Haru Haru,BIGBANG,66,4991585,"['k-pop', 'k-pop boy group']",0,Stand Up,kpop,0.687,0.675,0.914,126.001,-5.02,0.0437,0,0.0858,0.166,6
+2vzn8usBcuNL93DnTjEK0z,LOSER,BIGBANG,66,4991585,"['k-pop', 'k-pop boy group']",63,MADE,kpop,0.639,0.488,0.692,89.846,-4.127,0.107,0,0.356,0.338,3
+3lYvepDz6yYj29z7e4r5z0,FXXK IT,BIGBANG,66,4991585,"['k-pop', 'k-pop boy group']",62,MADE,kpop,0.716,0.575,0.763,90.101,-3.001,0.0945,0,0.271,0.147,0
+2BQIMF7CyLe2xAKzh74A4C,Gee,Girls' Generation,67,2322100,"['k-pop', 'k-pop girl group']",51,Gee - The First Mini Album,kpop,0.749,0.727,0.923,99.975,-1.014,0.0277,0,0.111,0.292,1
+6VOG2ROMCklbn6SSg9mA9H,Oh!,Girls' Generation,67,2322100,"['k-pop', 'k-pop girl group']",55,Oh! - The Second Album,kpop,0.759,0.44,0.966,143.987,-2.207,0.0416,1.03E-05,0.229,0.0218,2
+69QlYqNJeZG14R4an2aoJv,Fiction,Beast,51,457924,"['k-pop', 'k-pop boy group']",59,Fiction And Fact,kpop,0.665,0.455,0.866,128.041,-3.81,0.056,0,0.373,0.223,7
+3Ase3jvjv2RYIa92MMfu82,Be Mine,INFINITE,49,864319,"['k-pop', 'k-pop boy group']",52,Over The TOP,kpop,0.688,0.756,0.926,129.985,-3.027,0.0607,0,0.0936,0.00194,10
+2N8gVC6b45879mbNo9IMZr,Bad,INFINITE,49,864319,"['k-pop', 'k-pop boy group']",51,Reality,kpop,0.689,0.458,0.858,99.994,-3.051,0.116,0,0.134,0.24,0
+3YxK7NqMCWDpmrQ82Wvx25,STEP,KARA,61,498019,"['k-pop', 'k-pop girl group']",62,KARA 3rd Album STEP,kpop,0.618,0.761,0.975,122.939,-0.883,0.128,3.09E-06,0.423,0.0113,6
+1jbHCJ8EtvoKfMMYy3bAlN,Mamma Mia,KARA,61,498019,"['k-pop', 'k-pop girl group']",57,카라(KARA) 6th Mini Album [Day&Night],kpop,0.697,0.8,0.927,128.084,-2.268,0.0772,0,0.1,0.0424,0
+2MYfUH4Zo7gphaxmMVDrie,I will show you,AILEE,59,1059397,"['k-pop', 'korean pop']",10,Invitation,kpop,0.606,0.226,0.872,129.965,-2.114,0.0519,0,0.125,0.262,7
+4wAjmojVxc6Wbeca9XvnDo,I Like That,SISTAR,53,941918,"['k-pop', 'k-pop girl group']",55,INSANE LOVE,kpop,0.564,0.882,0.867,154.882,-3.137,0.0881,0,0.737,0.0952,7
+3y7ByLZ05tluscOTRgEJ9Y,Palette (feat. G-DRAGON),IU,72,7676977,['k-pop'],65,Palette,kpop,0.804,0.62,0.68,102.013,-3.81,0.2,0,0.102,0.458,0
+4eiPbjcTEJDQcsv7WV0vfD,Why,TAEYEON,68,2655019,"['k-pop', 'pop']",54,Why - The 2nd Mini Album,kpop,0.615,0.315,0.879,105.026,-3.275,0.0377,0,0.0581,0.0702,6
+67QGnT1Vdfuuy4HkLTUVjj,11:11,TAEYEON,68,2655019,"['k-pop', 'pop']",61,My Voice - The 1st Album (Deluxe Edition),kpop,0.445,0.511,0.528,203.155,-7.243,0.0744,0,0.155,0.677,10
+5zbxw72g850H4fNMFEO7PC,Someone like U,Dalshabet,33,167384,"['k-pop', 'k-pop girl group']",41,The 9th Mini Album 'Naturalness',kpop,0.742,0.964,0.971,121.005,-1.687,0.0671,0,0.04,0.3,6
+1067REIdzHeSuEOiiDBefP,Joker,Dalshabet,33,167384,"['k-pop', 'k-pop girl group']",42,Joker is Alive,kpop,0.788,0.884,0.893,126.042,-1.903,0.0572,0,0.0649,0.378,5
+24EZdr3QD9P2jbTtYJn2ux,FRI. SAT. SUN,Dalshabet,33,167384,"['k-pop', 'k-pop girl group']",30,FRI. SAT. SUN,kpop,0.619,0.748,0.809,149.947,-2.283,0.0679,0,0.31,0.173,7
+60zxdAqWtdDu0vYsbXViA7,FANCY,TWICE,81,16122933,"['k-pop', 'k-pop girl group']",0,FANCY YOU,kpop,0.699,0.795,0.866,132.023,-2.138,0.0446,0,0.648,0.0132,5
+3mmLyEhphJAaW7hyEXAD8l,Some,BOL4,64,1646984,['k-pop'],0,Red Diary Page.1,kpop,0.659,0.782,0.799,103.99,-2.849,0.0629,0,0.0562,0.417,1
+25aawb25AiIdfj5ctvr3Do,LOVE SCENARIO,iKON,62,3416638,"['k-pop', 'k-pop boy group']",0,NEW KIDS REPACKAGE : THE NEW KIDS,kpop,0.806,0.746,0.707,118.011,-4.623,0.0307,0,0.294,0.331,7
+1wcr8DjnN59Awev8nnKpQ4,Drunk-Dazed,ENHYPEN,76,4839312,"['anime', 'k-pop boy group']",76,BORDER : CARNIVAL,kpop,0.599,0.453,0.869,132.889,-5.174,0.0618,0,0.0911,0.000707,5
+6ssSzCx8vxqkYenaxJuObQ,You’re Pitiful,FIESTAR,34,145455,"['k-pop', 'k-pop girl group']",44,BLACK LABEL,kpop,0.786,0.67,0.851,120.037,-2.95,0.0457,0,0.0904,0.324,4
+71kC79VjhOrFpLcPE8JMFw,Mirror,FIESTAR,34,145455,"['k-pop', 'k-pop girl group']",38,A Delicate Sense,kpop,0.793,0.472,0.755,112.01,-4.505,0.0286,1.00E-06,0.118,0.217,8
+3CYH422oy1cZNoo0GTG1TK,Psycho,Red Velvet,76,7959535,"['k-pop', 'k-pop girl group']",79,‘The ReVe Festival’ Finale,kpop,0.664,0.405,0.666,139.987,-2.203,0.0446,0,0.0854,0.193,8
+6koMMQlsRWBwHZXdtWxgUk,7월 7일 One Of These Nights,Red Velvet,76,7959535,"['k-pop', 'k-pop girl group']",53,The Velvet - The 2nd Mini Album,kpop,0.436,0.11,0.509,133.653,-5.161,0.0345,0,0.101,0.475,6
+21C7B7PWYDW00czamOjleO,Fool,Red Velvet,76,7959535,"['k-pop', 'k-pop girl group']",41,Russian Roulette - The 3rd Mini Album,kpop,0.634,0.774,0.699,177.941,-3.898,0.109,5.99E-05,0.0673,0.527,1
+2Mz2eRmejJLCDSD0jnRm0n,Heartbeat,2PM,53,726146,"['k-pop', 'k-pop boy group']",44,1:59PM,kpop,0.632,0.591,0.914,134.899,-3.513,0.142,0,0.134,0.00339,1
+3nQ7liRYD6pXWAP0oVPtW2,우리집 My House,2PM,53,726146,"['k-pop', 'k-pop boy group']",59,No.5,kpop,0.557,0.781,0.74,176.021,-3.686,0.236,0,0.0663,0.00152,6
+0K2UTvyyBPSmr0IccCWNZm,Hush,miss A,49,862124,"['k-pop', 'k-pop girl group']",56,HUSH,kpop,0.769,0.673,0.807,125.999,-3.453,0.0494,0,0.199,0.275,5
+7kTKAdVVlDxve6Qr7Hm7Qc,Bad Girl Good Girl,miss A,49,862124,"['k-pop', 'k-pop girl group']",57,A Class,kpop,0.793,0.507,0.805,135.987,-4.224,0.0438,9.03E-05,0.0641,0.1,10
+2NO4CA2TFvhGeg7XMz8PmT,Wedding Dress,TAEYANG,56,835651,['korean r&b'],57,Solar,kpop,0.729,0.707,0.669,133.943,-4.73,0.0347,0,0.129,0.122,0
+4kD6ouOl6cKXBj6wh1mo82,History - Chinese Version,EXO-M,30,1040231,"['chinese idol pop', 'k-pop']",33,Mama - The 1st Mini Album (Chinese Version),kpop,0.771,0.62,0.825,110.849,-3.227,0.0829,0.000267,0.0408,0.000293,1
+3bZCpnBZjoz78HuFfCDuVg,Somebody Else,SE7EN,37,155910,['k-pop'],29,SE7EN New Mini Album,kpop,0.616,0.374,0.855,125.047,-4.734,0.0411,0,0.301,0.00107,1
+6GAXpDApLNCK6GKNUp72EM,Rainism,Rain,49,111989,['classic k-pop'],51,RAINISM,kpop,0.864,0.646,0.79,123.994,-5.358,0.102,0.0189,0.0863,0.03,9
+7gH0gjbvNKZJtryOUNW2Yt,It′s Raining,Rain,49,111989,['classic k-pop'],43,It's Raining,kpop,0.783,0.385,0.875,103.953,-4.486,0.0663,0.0233,0.217,0.0172,1
+345y6JePQqGMSO76yUkVpw,30 SEXY,Rain,49,111989,['classic k-pop'],33,Rain Effect - Special edition,kpop,0.775,0.914,0.77,109.522,-2.594,0.0413,0.000779,0.0624,0.0919,8
+6QeTPzJibMTwtoRRzqZY5r,LA SONG,Rain,49,111989,['classic k-pop'],35,Rain Effect - Special edition,kpop,0.734,0.463,0.966,119.975,-1.905,0.169,0.000847,0.338,0.229,0
+4iJyTp1KwCeBKhf7h0SwsD,REALLY REALLY,WINNER,57,2433633,"['k-pop', 'k-pop boy group']",64,FATE NUMBER FOR,kpop,0.765,0.581,0.77,103.005,-3.16,0.0592,0,0.0854,0.167,2
+2iPxDFeN27VrKgGdZ0AIKw,Whiplash,NCT 127,72,6105782,"['k-pop', 'k-pop boy group']",57,NCT #127 CHERRY BOMB– The 3rd Mini Album,kpop,0.815,0.76,0.767,99.984,-6.119,0.182,0,0.19,0.0318,1
+3gdqjIsKs7JqIE76JsNpG4,All I Wanna Do,Jay Park,67,1853058,"['k-pop', 'k-rap', 'korean r&b', 'pop']",0,Everything You Wanted,kpop,0.594,0.509,0.667,96.146,-6.867,0.267,0,0.0735,0.249,5
+4O6aJs7sGvhcnMVOwCHC45,Yacht (K) [feat. Sik-K],Jay Park,67,1853058,"['k-pop', 'k-rap', 'korean r&b', 'pop']",0,Yacht (K) (feat. Sik-K),kpop,0.726,0.778,0.772,80.017,-4.373,0.113,0,0.195,0.451,10
+2p980qlVXYLh3HdHusbhfa,풀어,DEAN,63,1297586,"['k-pop', 'korean r&b']",58,130 Mood : TRBL,kpop,0.89,0.758,0.501,126.949,-5.562,0.0589,0,0.103,0.0958,5
+3uA8SjMyDtwtt0jLPMQbVD,D (Half Moon),DEAN,63,1297586,"['k-pop', 'korean r&b']",65,130 Mood : TRBL,kpop,0.512,0.519,0.765,169.709,-5.252,0.136,0,0.0573,0.246,7
+7saJl9V0kRYGWuyeURHYNU,Yanghwa BRDG,Zion.T,57,552270,"['k-pop', 'k-rap', 'korean pop', 'korean r&b']",54,Yanghwa BRDG,kpop,0.539,0.37,0.436,87.111,-8.73,0.0504,0,0.151,0.726,3
+0UzymivvUH5s8z4PeWZJaK,FEVER,ENHYPEN,76,4839312,"['anime', 'k-pop boy group']",78,BORDER : CARNIVAL,kpop,0.6,0.471,0.713,72.999,-5.079,0.0592,0,0.142,0.0642,6
+3eHkFA3StDR9BU7EVrUFLs,WINE (Feat.Changmo) (Prod. SUGA),SURAN,54,1022629,"['k-pop', 'korean r&b']",58,WINE,kpop,0.62,0.502,0.644,145.87,-2.713,0.0447,0,0.105,0.314,4
+6SG8lh7fWQ2bahP5WBYePn,We don't talk together (Prod. by SUGA),HEIZE,61,1065471,"['k-pop', 'korean pop', 'korean r&b']",64,We don’t talk together,kpop,0.629,0.308,0.736,97.883,-4.672,0.0401,0,0.333,0.039,7
+5awNIWVrh2ISfvPd5IUZNh,PTT (Paint The Town),LOONA,65,2137652,"['k-pop', 'k-pop girl group']",68,[&],kpop,0.781,0.546,0.814,124.028,-2.437,0.1,1.92E-05,0.0565,0.0735,8
+2bZIDMpzVooosmPHn0tHnd,STEREOTYPE,STAYC,68,1125058,"['k-pop', 'k-pop girl group']",71,STEREOTYPE,kpop,0.605,0.738,0.805,148.298,-3.212,0.0641,0,0.659,0.313,6
+5BXr7hYZQOeRttkeWYTq5S,ASAP,STAYC,68,1125058,"['k-pop', 'k-pop girl group']",70,STAYDOM,kpop,0.764,0.323,0.802,132.02,-4.217,0.0351,0,0.189,0.102,0
+52CBUrIdyf8tbZaUY9iawE,After School,Weeekly,55,517839,['k-pop'],71,We play,kpop,0.634,0.738,0.928,164.007,-1.609,0.0514,2.55E-06,0.0626,0.00719,1
+0g1AmSKokPboFrxmG1dxKx,Some (feat. Lil Boi),SOYOU,52,358143,"['k-pop', 'korean pop']",62,Some,kpop,0.738,0.961,0.676,95.04,-3.025,0.0507,0,0.253,0.446,11
+5ypObuDXm2XT7ipEE5yZMr,니가 하면 If You Do,GOT7,64,6361408,"['k-pop', 'k-pop boy group']",54,MAD,kpop,0.692,0.757,0.886,129.957,-1.642,0.0766,0,0.217,0.0557,8
+0dcnrLo8s1rhjm8euGjI4n,DARARI,TREASURE,71,2409563,['k-pop'],76,THE SECOND STEP : CHAPTER ONE,kpop,0.716,0.552,0.638,84.955,-6.87,0.0392,0,0.0702,0.486,0
+27zrFrtUtWl2urlvjOn5xc,Say Yes,Loco,62,359033,"['k-pop', 'korean r&b']",69,"Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2",kpop,0.696,0.41,0.778,94.996,-4.653,0.0585,0,0.329,0.352,1
+1D6lK8qADoErTTLkY4YBfM,Everytime,CHEN,60,1516770,['k-pop'],69,Descendants Of The Sun Pt.2 (Original Television Soundtrack),kpop,0.514,0.495,0.736,90.002,-4.364,0.0321,0,0.18,0.483,10
+55mjIth3WxnK3p42uyRBwN,My Destiny,Lyn,49,261114,[],0,"My Love From the Star 별에서 온 그대 (Original Television Soundtrack), Pt. 1",kpop,0.346,0.107,0.437,127.145,-6.342,0.0423,4.23E-05,0.119,0.785,7
+2nJDePK69THatYkjkjQFE8,You are so beautiful,Eddy Kim,46,353421,"['k-pop', 'korean pop', 'korean singer-songwriter']",56,"Guardian (Original Television Soundtrack), Pt. 5",kpop,0.491,0.518,0.554,151.736,-5.65,0.143,0,0.113,0.717,0
+0Q5VnK2DYzRyfqQRJuUtvi,LOVE DIVE,IVE,74,1566716,['k-pop girl group'],84,LOVE DIVE,kpop,0.703,0.538,0.709,117.941,-4.169,0.0433,5.43E-05,0.333,0.00379,1
+6wBpO4Xc4YgShnENGSFA1M,Sour Grapes,LE SSERAFIM,78,1245810,[],78,FEARLESS,kpop,0.779,0.72,0.801,139.998,-5.564,0.0457,0,0.108,0.395,6
+37YoRLUu1qId0ewavgvnkG,Blue Flame,LE SSERAFIM,78,1245810,[],76,FEARLESS,kpop,0.781,0.765,0.725,112.045,-3.571,0.0452,0,0.0761,0.0281,4
+3lSM3Wn3RJbzAAHzJ3sX1f,I'm so sick,Apink,54,1147194,"['k-pop', 'k-pop girl group']",0,ONE & SIX,kpop,0.594,0.777,0.81,123.752,-2.083,0.0531,0,0.0324,0.128,6
+5SusX17QvBBkH7WfMbTU0j,NoNoNo,Apink,54,1147194,"['k-pop', 'k-pop girl group']",54,Secret Garden,kpop,0.74,0.745,0.908,105.996,-2.668,0.0327,0,0.0637,0.106,4
+0l6w3GsvjJWdZHs3eXTjuL,就忘了吧,1K,47,3846,[],65,就忘了吧,cpop,0.524,0.41,0.653,131.979,-6.011,0.0325,0,0.241,0.488,10
+69zgyr5HVKdInjeKpq1qHa,"想見你想見你想見你(電視劇""想見你""片尾曲)",831,53,236879,"['mandopop', 'taiwan idol pop', 'taiwan pop']",65,"想見你想見你想見你(電視劇""想見你""片尾曲)",cpop,0.547,0.43,0.666,129.814,-5.694,0.0393,0,0.144,0.4,6
+4bToS6CYQw8A9IDGPVmkjW,I Don't Gotta Know,Adam Fan,36,39121,['chinese idol pop'],51,I Don't Gotta Know,cpop,0.736,0.784,0.486,160.066,-8.529,0.38,0,0.351,0.28,4
+0BVRfqRHpYnXnv9t5yp9ai,Reverse,CORSAK,55,37196,['chinese electropop'],51,Reverse,cpop,0.628,0.334,0.713,140.026,-5.139,0.0432,0.00029,0.106,0.0767,0
+46fURCnWErjFdNM2yBJ2c8,永不失聯的愛,Eric Chou,66,1160082,['mandopop'],64,如果雨之後,cpop,0.289,0.531,0.43,169.511,-6.818,0.0332,0,0.101,0.624,10
+7zyYmIdjqqiX6kLryb7QBx,以後別做朋友,Eric Chou,66,1160082,['mandopop'],62,學著愛,cpop,0.423,0.291,0.36,130.576,-9.458,0.0372,0,0.105,0.728,3
+2gug6MRv4xQFYi9LA3PJCS,"你,好不好? - TVBS連續劇【遺憾拼圖】片尾曲",Eric Chou,66,1160082,['mandopop'],65,"愛,教會我們的事",cpop,0.439,0.535,0.477,159.819,-5.638,0.0307,0,0.114,0.643,10
+5cU1O9P0EDA0rPkPDykhIm,怎麼了,Eric Chou,66,1160082,['mandopop'],63,終於了解自由 (Deluxe),cpop,0.502,0.253,0.565,139.926,-7.779,0.0358,5.55E-05,0.156,0.696,9
+4ijVXVyhXX0tYrEUh3iCgt,Something about LA,Eric Chou,66,1160082,['mandopop'],46,終於了解自由 (Deluxe),cpop,0.587,0.425,0.651,79.989,-6.92,0.0527,0,0.0822,0.419,7
+0sv8Jj01Hrgx9k1kfb3x7M,Over You,Gen Neo,38,28821,['chinese electropop'],36,Over You,cpop,0.726,0.639,0.649,88.021,-5.549,0.0502,0,0.0998,0.485,4
+4RYrzmuOXhr1GoqD8d7zmF,总有个人,GONG,26,7346,['chinese electropop'],22,GONG,cpop,0.604,0.314,0.641,135.975,-4.6,0.0283,0,0.124,0.105,8
+6fqbi3fyK2FtaFYnfCI6cX,長江絕戀,Ice Paper,45,24358,"['chinese hip hop', 'chinese viral pop']",43,金陵九歌,cpop,0.619,0.277,0.528,171.929,-5.908,0.105,1.92E-06,0.107,0.807,5
+7xt8ZbmkVirI7YRKBQ1A4K,Monster - Chinese Version,Henry,57,461514,"['k-pop', 'korean pop']",31,Monster,cpop,0.475,0.369,0.383,117.128,-7.815,0.0355,0,0.137,0.801,9
+3IP4qSMfGeqI2XqHFf25sj,芒种,音阙诗听,50,78034,"['chinese viral pop', 'mainland chinese pop', 'zhongguo feng']",61,芒种,cpop,0.781,0.548,0.656,99.981,-5.862,0.031,0.0689,0.114,0.723,8
+3OWTiOvc1numNmjqpKfq3V,易燃易爆炸,陳粒,49,114787,"['chinese indie', 'chinese minyao', 'chinese singer-songwriter']",48,如也,cpop,0.658,0.11,0.338,115.129,-9.179,0.0525,6.46E-05,0.11,0.945,10
+0wfgC4PipatRkF9VMRtYuF,for ya,蔣小呢,0,3314,['chinese viral pop'],2,for ya,cpop,0.616,0.447,0.509,91.008,-8.244,0.0375,0,0.112,0.613,8
+7aZ9cGNbHYZSYtEDwQ74PG,11,米卡,39,6496,['chinese talent show'],37,11,cpop,0.451,0.36,0.573,147.91,-5.334,0.0294,0,0.383,0.145,4
+2iC7QokDkeZ8pfzdMAaP82,"爱,存在",王靖雯,54,32969,['chinese viral pop'],0,"爱,存在",cpop,0.355,0.301,0.262,177.718,-12.507,0.0461,0,0.305,0.773,4
+6ovYjYHAUgelJdU2BuIua5,做我的猫,满舒克,42,17693,"['chinese hip hop', 'chinese viral pop']",36,做我的猫,cpop,0.813,0.375,0.597,108.037,-6.93,0.0469,2.03E-05,0.048,0.0304,9
+7rl9pIk2XET578hfasrmJ4,茫,李润祺,38,7289,"['chinese singer-songwriter', 'chinese viral pop']",20,Before.19,cpop,0.587,0.209,0.417,130.048,-7.385,0.0339,0,0.0621,0.546,11
+4LSPhOVHew694KG2IAA6Ap,Crush On,李浩瑋 Howard Lee,51,34228,"['chinese r&b', 'taiwan hip hop']",58,Diamond In The Rough,cpop,0.475,0.571,0.522,74.755,-6.351,0.118,0,0.153,0.634,7
+3BR2pyEvbTwVhE0qpGEMaX,渐暖,時代少年團,44,73565,['chinese idol pop'],45,渐暖,cpop,0.661,0.562,0.771,114.974,-5.463,0.0297,0,0.115,0.343,2
+54XSnFwtDKi6FaYUUnnJhj,粉霧海,易烊千璽,35,125219,"['chinese idol pop', 'mainland chinese pop']",37,粉霧海,cpop,0.698,0.217,0.457,120.066,-9.529,0.0381,1.29E-05,0.219,0.546,9
+3TgQQbiozU79fO0BiCVWgI,Nothing To Lose,易烊千璽,35,125219,"['chinese idol pop', 'mainland chinese pop']",29,Nothing To Lose,cpop,0.852,0.231,0.427,129.924,-7.51,0.0614,0.000945,0.0918,0.136,4
+0NkxOsoNjH3yKZVTGtvZaS,Fall,易烊千璽,35,125219,"['chinese idol pop', 'mainland chinese pop']",20,Fall,cpop,0.808,0.865,0.577,139.991,-8.229,0.0496,2.79E-06,0.179,0.268,1
+1mtoiqufi0qyFPH75VOjCs,Light Orange Island,Youth With You,32,7059,[],22,"OUI ""SONG REQUEST""",cpop,0.488,0.233,0.335,68.557,-13.495,0.063,0,0.131,0.658,9
+2elRy8aE6udm6aCo4j1HKY,說謊,Yoga Lin,56,507500,"['chinese r&b', 'mandopop', 'taiwan pop']",30,感官世界,cpop,0.54,0.22,0.474,128.051,-7.589,0.0294,0,0.118,0.372,10
+3Uw9U1f3PT7Qot9frhpPWX,银河与星斗,yihuik苡慧,48,34833,['chinese viral pop'],56,银河与星斗,cpop,0.578,0.523,0.498,162.015,-8.283,0.0358,0,0.326,0.6,10
+2wObShFfEpKWTdpVQCMsDg,都不懂,yihuik苡慧,48,34833,['chinese viral pop'],52,都不懂,cpop,0.793,0.397,0.423,115.11,-7.405,0.0815,0,0.181,0.762,1
+5DPLDb5WzdFeU52l57awob,苦茶 - 心动版,Yihuik苡慧,41,4265,['chinese viral pop'],0,苦茶 (心动版),cpop,0.794,0.702,0.441,128.085,-8.406,0.0496,5.91E-06,0.135,0.246,9
+6O08YZmZukxmZzeZnzOXMF,哎呦喂,yangyang,28,3835,['chinese viral pop'],45,哎呦喂,cpop,0.736,0.42,0.475,143.04,-10.722,0.146,0,0.143,0.237,1
+5yNwKMIQC5CeRofDRbcYTX,Dumb Dumb Bomb,THE9,29,40689,['chinese idol pop'],36,虚实X境,cpop,0.867,0.857,0.808,128.011,-6.292,0.0648,0,0.0746,0.103,4
+2gx4ritqHt3wJ0fJOY8IQt,斯芬克斯 (Sphinx),THE9,29,40689,['chinese idol pop'],35,斯芬克斯X謎 (Sphinx X),cpop,0.654,0.639,0.873,149.943,-3.469,0.218,0,0.648,0.0692,9
+7Ki8b6jPtwoF9aBINZmqG3,I Could,sunkis,44,11595,['chinese r&b'],42,I Could,cpop,0.631,0.486,0.39,180.05,-7.144,0.102,0,0.118,0.628,9
+6riw7EvS6amwDkv7RXsQAG,trust me,sunkis,44,11595,['chinese r&b'],56,trust me,cpop,0.756,0.239,0.467,128.898,-9.064,0.115,0,0.115,0.746,4
+7uwJwSKpmzZH7p7imm4f1P,No Reason,Ryan.B,49,32676,"['chinese hip hop', 'chinese viral pop']",59,No Reason,cpop,0.542,0.345,0.485,176.074,-7.718,0.146,0,0.0824,0.842,2
+6LAHkI7op52Y4NoK2PGMlH,放個大招給你看 (OPPO Reno 宣傳曲),Ryan.B,49,32676,"['chinese hip hop', 'chinese viral pop']",54,放個大招給你看 (OPPO Reno 宣傳曲),cpop,0.704,0.921,0.576,206.072,-4.962,0.0967,0,0.0865,0.654,8
+3mAc5QY56d5Zl1MbvnWybK,太陽,Pika Chiu,38,12112,['taiwan singer-songwriter'],55,邱振哲<遠行的太陽>首張創作專輯,cpop,0.609,0.227,0.595,124.081,-5.349,0.0325,0,0.127,0.327,3
+4yOMpzImEy2xWT5e5i1cAD,敏感(LH x Z.TAO),Lu Han,47,880692,"['chinese electropop', 'chinese idol pop', 'mainland chinese pop', 'mandopop']",42,敏感(LH x Z.TAO),cpop,0.799,0.429,0.543,90.018,-5.966,0.096,0,0.118,0.424,7
+2ckGH6FtxWeAv0SskcREd1,Manta,Lexie Liu,59,111763,['chinese electropop'],50,无限意识 Meta Ego,cpop,0.709,0.423,0.695,95.973,-4.289,0.0371,0,0.117,0.157,11
+18bn40LGPlEkKPLs2OWgUS,Hug me,KUN,44,188375,['chinese idol pop'],54,Hug me,cpop,0.418,0.484,0.62,72.734,-5.52,0.453,1.74E-06,0.228,0.467,6
+4OoO0q9DrsT0pSHvA435KF,情人,KUN,44,188375,['chinese idol pop'],56,情人,cpop,0.618,0.438,0.578,86.06,-7.521,0.0815,0,0.101,0.249,10
+3Ym4IjB3lfMIAjMF37teZo,LOSE CONTROL 失控,LAY,53,1443591,"['chinese electropop', 'chinese idol pop', 'k-pop']",36,LOSE CONTROL – The 1st Mini Album,cpop,0.799,0.617,0.645,115.561,-4.545,0.0425,0,0.125,0.139,8
+49akfWUMpemZGKyPPVHfRu,what U need? 你要什么,LAY,53,1443591,"['chinese electropop', 'chinese idol pop', 'k-pop']",22,LOSE CONTROL – The 1st Mini Album,cpop,0.705,0.949,0.629,94.862,-2.415,0.115,0,0.0324,0.16,0
+0dnB3u4wKs7UfbzsCsxD0g,MYM,LAY,53,1443591,"['chinese electropop', 'chinese idol pop', 'k-pop']",29,LOSE CONTROL – The 1st Mini Album,cpop,0.789,0.423,0.661,119.97,-5.181,0.0446,0,0.24,0.0861,0
+0WNodcT2mn3fX8NwsYxCp8,輸情歌,J.Sheon,48,137775,"['mandopop', 'taiwan pop', 'taiwan singer-songwriter']",43,輸情歌,cpop,0.632,0.561,0.328,149.942,-8.239,0.0431,0,0.199,0.784,5
+5NwtQOZ3nlPXqvodEIoyt6,溫度,Julia Wu,52,163394,"['chinese electropop', 'mandopop', 'taiwan pop']",42,5:30,cpop,0.666,0.747,0.64,95.036,-7.838,0.0273,0,0.194,0.717,1
+2PNDZp0ultOJrQL4AVENPO,FaceTime,Karencici,47,41837,"['chinese electropop', 'chinese r&b']",38,SHA YAN,cpop,0.733,0.201,0.32,93.982,-10.364,0.0496,0,0.0724,0.596,9
+78lzx5aGQeXPLTL4vhIdi6,春風吹,Khalil Fong,53,265098,"['cantopop', 'chinese indie', 'chinese r&b', 'mandopop']",30,The Soulboy Collection,cpop,0.864,0.54,0.204,134.97,-12.674,0.413,0,0.131,0.319,9
+5TkQbhQm9BXONk2agDo4w9,紅豆,Khalil Fong,53,265098,"['cantopop', 'chinese indie', 'chinese r&b', 'mandopop']",53,Timeless,cpop,0.484,0.256,0.248,121.969,-13.931,0.0466,1.66E-05,0.319,0.386,6
+0n7Ij8XEDfYYFRgBQjNjnf,愛你,Kimberley Chen,49,142112,['mandopop'],58,Kimberley首张同名专辑,cpop,0.552,0.142,0.521,144.027,-6.721,0.0286,0,0.0901,0.333,9
+6MrVXeEMf0MULWdclDk4sI,R&B All Night,KnowKnow,43,36562,['chinese hip hop'],49,Mr. Enjoy Da Money,cpop,0.761,0.799,0.545,78.034,-8.188,0.144,4.53E-05,0.0456,0.00638,11
+3hXPLhV6Z9Lovhg7daM09I,等你的季節,劉詩詩,23,1361,['chinese drama ost'],41,步步驚心主題曲原聲EP,cpop,0.452,0.428,0.395,152.053,-8.505,0.0288,0,0.191,0.799,6
+5ql8N4h66Hqse2hTameDqH,一念執著,胡歌,32,11941,['mainland chinese pop'],41,步步驚心主題曲原聲EP,cpop,0.521,0.498,0.507,97.987,-7.603,0.0289,0,0.121,0.715,3
+1xjDvv3wvcB49iVggnn7iK,有点甜,Silence Wang,53,186963,"['chinese singer-songwriter', 'mainland chinese pop', 'mandopop']",0,万有引力,cpop,0.696,0.421,0.586,104.984,-6.801,0.0353,0,0.102,0.68,4
+3IveWAHTMxZA4KYBPnylq5,飞鸟和蝉,Ren Ran,61,266104,"['mainland chinese pop', 'mandopop']",0,飞鸟和蝉,cpop,0.569,0.321,0.567,147.962,-7.142,0.0527,0,0.222,0.749,10
+2D2pqz9UjxOsLbucKFAHTV,我的新衣 (feat. Ty. & 王倩倩),VaVa,40,58800,['chinese hip hop'],47,21,cpop,0.586,0.648,0.816,179.896,-6.736,0.199,4.08E-05,0.169,0.0757,6
+5FCICpVP6esEhKY7dxLU7T,心引力,王俊凱,36,63820,"['chinese idol pop', 'mainland chinese pop']",50,心引力,cpop,0.433,0.466,0.455,187.648,-12.767,0.1,0,0.0879,0.133,11
+1qC4WWHjOBmldotqL15dnD,咖啡 (LH x KW),Lu Han,47,880692,"['chinese electropop', 'chinese idol pop', 'mainland chinese pop', 'mandopop']",45,咖啡 (LH x KW),cpop,0.769,0.326,0.595,95.015,-5.926,0.0416,0,0.107,0.0447,10
+2D3RLHYuPLrHsisgYbFnSv,陷入愛情 (電視劇《你是我的榮耀》插曲),希林娜依·高,24,1617,[],41,陷入愛情 (電視劇《你是我的榮耀》插曲),cpop,0.603,0.137,0.396,103.95,-8.42,0.0361,4.13E-06,0.111,0.686,5
+0FfdtQrD9kT42o6Anv4uDn,大魚 - 唱片版,周深,55,228130,"['chinese talent show', 'mainland chinese pop']",55,深的深,cpop,0.355,0.117,0.376,140.19,-11.062,0.0322,0.000109,0.0947,0.449,10
+0ePO5daromjaeBDhNR8YwA,夏天的夏,吴炳文,30,367,['chinese viral pop'],34,夏天的夏,cpop,0.742,0.328,0.398,119.893,-9.24,0.0644,0,0.0948,0.754,11
+7rDH8envP8lInssoc5fyu6,收藏,yihuik苡慧,48,34833,['chinese viral pop'],29,收藏,cpop,0.579,0.187,0.341,119.756,-10.372,0.0319,0,0.342,0.754,3
+7mauRaccD3RaEWdW2SPzPj,梁山伯與茱麗葉,Gary Chaw,44,83993,"['malaysian mandopop', 'mandopop']",43,十年曹格 「小小」特別企劃數位精選,cpop,0.666,0.659,0.574,120.019,-6.497,0.0289,0,0.0911,0.78,2
+1ZsPPPhXyjv5C8f0WeVAoA,不潮不用花錢,JJ Lin,66,2366582,"['mandopop', 'singaporean mandopop', 'singaporean pop']",48,JJ陸,cpop,0.789,0.646,0.701,112.005,-5.177,0.0318,1.93E-06,0.0814,0.201,9
+5OFtU1YvHPw9WSHJxoZi3r,小酒窩,JJ Lin,66,2366582,"['mandopop', 'singaporean mandopop', 'singaporean pop']",33,林俊傑2003年-2010年作品精選集,cpop,0.639,0.347,0.443,95.087,-6.156,0.0259,0,0.108,0.767,3
+07DWACsD58aEdq6XnDadLh,手心的薔薇,JJ Lin,66,2366582,"['mandopop', 'singaporean mandopop', 'singaporean pop']",62,新地球,cpop,0.422,0.17,0.499,86.948,-5.702,0.0278,0,0.276,0.849,7
+1ZeVIrCWzEmsJexkrgvjFv,小幸運,Hebe Tien,56,772286,"['mandopop', 'taiwan pop']",61,小幸運,cpop,0.519,0.506,0.412,157.916,-8.584,0.0365,0,0.101,0.75,0
+5Bg8TTwE8wlTsUYZICMuPX,红绝 - 《天官赐福》动画片尾曲,胡夏,26,106,[],44,《天官赐福》动画原声带,cpop,0.531,0.297,0.602,96.056,-6.535,0.0283,0,0.0581,0.44,4
+3ILYRPbZSmv9z6zIqlYWrS,热恋冰淇淋,yihuik苡慧,48,34833,['chinese viral pop'],51,热恋冰淇淋,cpop,0.684,0.433,0.438,94.965,-9.973,0.0461,0,0.423,0.48,0
+1r4K4agNlWl7DqvKKbx1PJ,為什麼不說話,yihuik苡慧,48,34833,['chinese viral pop'],34,為什麼不說話,cpop,0.644,0.264,0.389,131.824,-6.782,0.0446,7.13E-06,0.118,0.436,0
+10RsjyKQH6m7n7euviU2F3,精彩才刚刚开始,易烊千璽,35,125219,"['chinese idol pop', 'mainland chinese pop']",36,精彩才刚刚开始,cpop,0.731,0.579,0.771,136.024,-5.877,0.0681,1.59E-05,0.169,0.223,7
+0DPdoBPSLMcnep7I7uZXl3,沉沦与遐想,C Hope,29,413,[],46,沉沦与遐想,cpop,0.782,0.467,0.515,99.762,-6.824,0.202,0,0.113,0.411,10
+0Hh0WxyWf8VW0bV5usw4m6,寄明月(梦幻西游手游同人曲入骨相思),SING女团,30,4124,['zhongguo feng'],39,寄明月(梦幻西游手游同人曲入骨相思),cpop,0.646,0.889,0.927,140.047,-3.912,0.0284,0,0.0596,0.193,6
+6MktfPCb9dhZNRl2SS7741,從今以後,Gen Neo,38,28821,['chinese electropop'],37,從今以後,cpop,0.548,0.408,0.564,144.007,-7.532,0.0782,0,0.109,0.693,7
+2v7yI88iezgRO9ka5gtUF1,seeing your name makes me happy,Burbank,48,72462,['lo-fi beats'],56,bedroom,study,0.724,0.476,0.279,162.136,-8.678,0.2,0.00474,0.0924,0.282,9
+34MqDD3411uJQvXsqpZv3D,"Sorry, I Like You",Burbank,48,72462,['lo-fi beats'],59,"Sorry, I Like You",study,0.833,0.584,0.642,86.017,-6.338,0.0611,5.06E-06,0.251,0.266,9
+6EflsGUuiOYqXcQaMXM76g,bee,Burbank,48,72462,['lo-fi beats'],35,a warm home,study,0.76,0.304,0.543,95.021,-8.142,0.0914,0.932,0.104,0.569,1
+2z8FeGVwMVklS2llztkjVF,the happiness of seeing someone again,Burbank,48,72462,['lo-fi beats'],38,a warm home,study,0.718,0.51,0.343,180.059,-8.784,0.0614,0.919,0.278,0.712,1
+2Xu6fN0gE2S04L0zywmcif,浴室,deca joins,46,143140,"['chinese indie', 'taiwan indie']",47,浴室,study,0.566,0.153,0.326,61.998,-9.683,0.0459,4.83E-05,0.118,0.73,7
+1iW73ZxZGyVyXKlfP5ivSZ,Go Slow,deca joins,46,143140,"['chinese indie', 'taiwan indie']",35,Go Slow,study,0.321,0.225,0.321,109.829,-14.2,0.0291,0.856,0.813,0.585,4
+5WKaQ69Uad8iJEHayGK9dG,眼睛裡,deca joins,46,143140,"['chinese indie', 'taiwan indie']",39,Go Slow,study,0.416,0.213,0.299,110.011,-12.793,0.0285,0.267,0.106,0.409,9
+7wmFsS43fO8vAg0vcr776N,My Jinji,Sunset Rollercoaster,57,344229,['taiwan indie'],63,Jinji Kikko,study,0.389,0.506,0.597,143.943,-8.436,0.0308,0.406,0.144,0.534,7
+3yit1izctD8utxa6kCaggz,Until Spring,Layton Wu,37,15760,"['chinese indie', 'chinese r&b']",19,Until Spring,study,0.846,0.472,0.234,120.039,-16.167,0.0573,0.00161,0.322,0.624,9
+5sczYVrDsLctXXrOtIb6j3,Summer Night Wind,Layton Wu,37,15760,"['chinese indie', 'chinese r&b']",34,Summer Night Wind,study,0.699,0.272,0.374,76.951,-10.781,0.0254,0.0951,0.114,0.818,4
+66v0ZHcKWawtH0Qc4M47t8,Honey Ginger Tea,Layton Wu,37,15760,"['chinese indie', 'chinese r&b']",26,Honey Ginger Tea,study,0.475,0.643,0.283,209.364,-14.451,0.0732,0.0323,0.0573,0.227,2
+0hoiu4phiHzoJwhl5kutX3,Dreaming With You,The Chairs,48,57976,"['chinese indie', 'taiwan pop']",52,Lemonade,study,0.735,0.871,0.486,92.007,-14.029,0.0285,0.0282,0.102,0.632,6
+5QkaoWSFwWNQEgifhtGxFp,在你死後才想起曾經答應陪你去散步,康士坦的變化球,43,65861,"['chinese indie', 'southeast asian post-rock', 'taiwan pop', 'taiwan post-rock', 'taiwan rock']",38,擱淺的人,study,0.431,0.184,0.525,80.007,-12.151,0.0315,0.897,0.323,0.427,3
+1u24Ut4Enu0OeMmeB2a4wq,Jasmine,C4C,49,10197,"['chillhop', 'lo-fi beats']",42,Jasmine,study,0.624,0.336,0.172,153.974,-20.261,0.0512,0.926,0.0878,0.904,11
+0VLquR2M28ldDhTyyZkvNc,Hitchhikers,Jordy Chandra,58,24474,[],37,Hitchhikers,study,0.594,0.052,0.399,97.397,-11.369,0.0556,0.752,0.112,0.965,4
+26566DizCMEaVKT1CQEoAY,Sunny Day,Ted Fresco,47,4568,[],46,Sunny Day,study,0.715,0.465,0.563,89.964,-4.297,0.0697,0.00153,0.0937,0.325,10
+4dGTCi5MPoC0Wp7vtMpQTX,Late Shift,PawnShop Guy,28,117,[],17,After Hours,study,0.794,0.0396,0.2,139.954,-22.699,0.0881,0.866,0.112,0.302,1
+3DDO0x6e2JCb1t0XjlYb7q,Bamboo Garden,notJamesHan,16,139,[],33,Bamboo Garden,study,0.503,0.142,0.339,79.986,-11.167,0.0315,0.066,0.0923,0.334,1
+6D2ykcjI1E34RKrr8CAxXQ,Ki,Linearwave,61,16552,"['focus beats', 'lo-fi brasileiro', 'sad lo-fi']",23,Ki,study,0.566,0.0905,0.25,74.031,-16.102,0.0346,0.92,0.341,0.585,0
+18ZVV1nrNgPo9jUbrMcRxk,Lake Acuity,AlmightyArceus,30,1728,"['lo-fi vgm', 'pokemon']",30,"Hidden Gem: Lo-Fi/Chillwave, Vol. 2",study,0.505,0.552,0.339,89.983,-21.33,0.0314,0.883,0.149,0.765,5
+1rcDwZ0ujEd4FDYVMbSzzx,Littleroot Town,Tosho,30,1265,['focus beats'],44,Littleroot Town,study,0.754,0.969,0.39,94.991,-15.388,0.0893,0.929,0.0956,0.825,0
+7rSKJ53BvIIdH4zZWNKaGE,bumblebee,Burbank,48,72462,['lo-fi beats'],7,bumblebee,study,0.794,0.698,0.506,122.308,-7.576,0.0857,0.00496,0.112,0.862,5
+0IGqoI4Z7WkTpSQbztyZHA,for the foxes,Burbank,48,72462,['lo-fi beats'],7,for the foxes,study,0.515,0.276,0.391,90.928,-11.673,0.0707,0.852,0.105,0.762,8
+6LgMLNdogfpKQ2G8yJ1iu8,two flies,Burbank,48,72462,['lo-fi beats'],8,two flies,study,0.632,0.141,0.365,149.695,-11.392,0.0475,0.772,0.12,0.776,9
+4bs6hC1t8mGNVQxpuKlkTl,and let it kill you,Burbank,48,72462,['lo-fi beats'],10,and let it kill you,study,0.576,0.528,0.479,90.016,-7.914,0.0754,0.0353,0.424,0.793,8
+4URp2XKsTp2cOR7pj4NkEZ,find what you love,Burbank,48,72462,['lo-fi beats'],7,find what you love,study,0.603,0.369,0.417,93.798,-15.539,0.315,0.12,0.156,0.627,4
+7wqHA0W80H5Z8t3X1ur9iN,this,Burbank,48,72462,['lo-fi beats'],0,this,study,0.469,0.0803,0.449,167.871,-12.74,0.0658,0.925,0.0985,0.396,10
+7IL6AvqZaOpnqX4Dx4EQW8,uh,Burbank,48,72462,['lo-fi beats'],7,uh,study,0.679,0.2,0.316,85.994,-13.057,0.042,0.882,0.111,0.879,8
+34JBrhWj43iGXajbZ9yemO,the world is ending and i'm still here,Burbank,48,72462,['lo-fi beats'],9,the world is ending and i'm still here,study,0.574,0.481,0.188,106.396,-13.711,0.238,0.0641,0.0798,0.731,3
+3BWXFt2WJClTPth6qYjF99,one-thirty-six a.m.,Burbank,48,72462,['lo-fi beats'],6,one-thirty-six a.m.,study,0.454,0.576,0.451,91.6,-14.364,0.185,0.212,0.423,0.772,10
+4lZjwl5Pw8wvmbJHaW87ZI,"Hong Jue (From ""Tian Guan Ci Fu"")",Homura Records,38,2602,[],35,"Hong Jue (From ""Tian Guan Ci Fu"")",study,0.405,0.105,0.259,90.779,-19.179,0.0582,0.872,0.0713,0.948,0
+7j7yBWX4dadRbJogeS0XiG,Mapleland (Login Theme),Paintamelody,43,32586,['piano cover'],34,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.441,0.167,0.211,132.858,-21.71,0.0463,0.914,0.109,0.981,8
+5G2EDpLOK8STvBExDq80EG,Above the Treetops (Lith Harbor),Paintamelody,43,32586,['piano cover'],33,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.312,0.181,0.16,131.559,-22.283,0.0346,0.924,0.138,0.974,2
+4qUpolpGvv8MmRCVmIscuK,Floral Life (Henesys),Paintamelody,43,32586,['piano cover'],30,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.646,0.561,0.154,148.824,-22.833,0.0861,0.855,0.0988,0.948,6
+09cGScZ8nU1aQh6DYHyV2h,When the Morning Comes (Ellinia),Paintamelody,43,32586,['piano cover'],33,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.46,0.296,0.127,118.974,-22.795,0.0443,0.903,0.164,0.986,10
+1XUwNNwCvciyFQgKFJMFY4,Missing You (Ellinia),Paintamelody,43,32586,['piano cover'],33,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.402,0.129,0.0616,170.541,-20.82,0.0381,0.924,0.0981,0.985,11
+3a9NDjXiM5naQulhrys0CO,Shinin' Harbor (Orbis),Paintamelody,43,32586,['piano cover'],31,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.442,0.303,0.172,139.849,-17.746,0.0504,0.878,0.125,0.98,1
+64tmk7BEJXXXWlCN9rpUBj,Snowy Village (El Nath),Paintamelody,43,32586,['piano cover'],32,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.431,0.252,0.156,132.411,-20.353,0.0442,0.885,0.112,0.98,10
+3OcZ08TBQAEEHHCF3ck3s6,Fantastic Thinking (Ludibrium),Paintamelody,43,32586,['piano cover'],29,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.652,0.752,0.174,105.66,-21.349,0.0604,0.859,0.107,0.967,2
+5bUluFRJMb78M6zjbG3pIf,Raindrop Flower (Ereve),Paintamelody,43,32586,['piano cover'],38,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.369,0.675,0.0973,103.559,-21.424,0.0394,0.925,0.15,0.986,7
+1KsIxIbaNXxgMnm6vmP6aE,Queen's Garden (Ereve),Paintamelody,43,32586,['piano cover'],34,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.435,0.254,0.0851,93.405,-21.918,0.0325,0.887,0.179,0.991,0
+5lYv58lizCFl1c15K3yan9,Temple of Time,Paintamelody,43,32586,['piano cover'],40,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.442,0.113,0.232,105.841,-22.053,0.0452,0.892,0.0552,0.986,11
+44fWMmsg0A64fIDdBN0T4P,Cygnus Garden,Paintamelody,43,32586,['piano cover'],34,"Reminiscence of Maplestory Piano Collections, Vol. 1",study,0.377,0.304,0.174,134.453,-22.103,0.0371,0.894,0.142,0.96,7
+0BISTkoIhYq46qtRRVjLvn,"Cash Shop (From ""MapleStory"")",Arcade Player,56,28065,[],28,"MapleStory, The Themes",study,0.523,0.627,0.815,134.015,-9.126,0.0316,0.702,0.197,0.597,0
+5njqJY5jL8RpdMkj3wHyfe,"The Tree That Grew (From ""MapleStory"")",Arcade Player,56,28065,[],24,"MapleStory, The Themes",study,0.523,0.189,0.0763,99.748,-16.303,0.0435,0.623,0.0958,0.0198,2
+19kmCEvjUgsABhluVwAwLf,her,Burbank,48,72462,['lo-fi beats'],14,her,study,0.73,0.41,0.325,161.935,-12.913,0.159,0.876,0.125,0.851,6
+2j3Giw4w2itBJGAX7DqXfI,sleeper,Burbank,48,72462,['lo-fi beats'],18,some lofi songs,study,0.833,0.59,0.18,79.88,-17.42,0.243,0.725,0.0682,0.892,1
+2CJTe4z3sV1biaSwxHYuyD,50mm,Burbank,48,72462,['lo-fi beats'],9,some lofi songs,study,0.558,0.789,0.353,174.104,-13.814,0.195,0.779,0.0979,0.907,5
+67hDFaRgfc9r7k8msDfBh3,blue moon,Burbank,48,72462,['lo-fi beats'],9,some lofi songs,study,0.701,0.549,0.406,71.025,-8.425,0.192,0.748,0.182,0.843,9
+4g2eTScCQBxte5REt8BPq8,tomorrow,Burbank,48,72462,['lo-fi beats'],8,some lofi songs,study,0.632,0.421,0.436,79.979,-10.945,0.0816,0.0451,0.264,0.603,8
+1DM4R4xSIU4jtGkTKJTGaB,lofi wifi,Burbank,48,72462,['lo-fi beats'],8,some lofi songs,study,0.708,0.649,0.439,166.023,-10.825,0.115,0.818,0.108,0.838,10
+1YjzmGE8PQJo6zTkphBkVh,happy dogs,Burbank,48,72462,['lo-fi beats'],8,some lofi songs,study,0.633,0.488,0.378,79.016,-16.949,0.0863,0.185,0.0894,0.662,5
+0XHpfS0nbdeaoO3Cv4l7BX,the good luck,Burbank,48,72462,['lo-fi beats'],9,some lofi songs,study,0.742,0.415,0.479,84.042,-9.676,0.312,0.925,0.386,0.868,8
+676iieWzLrbMqb68vgmkEW,Maple Treeway - Mario Kart Theme,CFC,48,2974,['lo-fi vgm'],35,Mario Kart Theme,study,0.609,0.951,0.547,136.049,-16.108,0.0387,0.818,0.177,8.08E-06,0
+77Wm018jtkEelPhbYf6FKk,Coconut Mall - Mario Kart Theme,CFC,48,2974,['lo-fi vgm'],46,Mario Kart Theme,study,0.563,0.699,0.709,129.938,-13.086,0.033,0.954,0.0744,0.00182,5
+7FnWYWBjLeqH2furK2CuNw,Koopa Cape - Mario Kart Theme,CFC,48,2974,['lo-fi vgm'],33,Mario Kart Theme,study,0.793,0.96,0.651,129.993,-15.59,0.057,0.638,0.0665,0.00123,10
+1jpsWrhiDXZuhmtTvyLE90,"Mushroom Gorge (From ""Mario Kart Wii"")",Arcade Player,56,28065,[],35,"Mario Kart Wii, The Themes",study,0.607,0.969,0.636,128.946,-9.97,0.0294,0.649,0.158,0.0621,0
+0hl8k492sfcfLQudNctEiR,"Wii Sports Theme (From ""Nintendo Wii"")",The Greatest Bits,48,42686,['scorecore'],46,"Wii Sports Theme (From ""Nintendo Wii"")",study,0.505,0.36,0.723,118.987,-9.584,0.0312,0.967,0.38,2.13E-05,1
+70P7LL6iSQz2CNcwCjNFR7,"Bowling (From ""Wii Sports"")",Arcade Player,56,28065,[],28,"Wii Sports 2: The Themes, Vol. 2",study,0.815,0.992,0.443,104.038,-12.632,0.115,0.899,0.0966,0.581,6
+2A2scSuu0wd2RueADa5WqK,ghost bird,Burbank,48,72462,['lo-fi beats'],24,ghost bird,study,0.685,0.105,0.377,96.971,-9.879,0.0547,0.348,0.12,0.944,6
